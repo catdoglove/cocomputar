@@ -1,0 +1,1662 @@
+{
+  "sites": [
+    {
+      "id": "my_home",
+      "title": "나의 작은 공간",
+      "color": "#15106A",
+      "domain": "www.my-home.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "홈으로",
+          "target": "home"
+        },
+        {
+          "label": "자기소개",
+          "target": "about"
+        },
+        {
+          "label": "일기장",
+          "target": "diary"
+        },
+        {
+          "label": "사진첩",
+          "target": "album"
+        },
+        {
+          "label": "방명록",
+          "target": "guest"
+        },
+        {
+          "label": "추천 사이트",
+          "target": "links"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "Welcome to my Homepage!",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "안녕하세요! 조그만 인터넷 공간에 오신 것을 환영해요. 소중한 사진과 일기를 차곡차곡 모았어요. 천천히 둘러보고 편지도 보내 주세요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "오늘의 기분: 맑음  ·  오늘의 한마디: 여기서는 우리 모두 친구예요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "주인장에게 메일 보내기",
+              "target": "",
+              "image": "",
+              "action": "mail"
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "title": "자기소개",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "이름 : 몰라도 돼",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "나이 : 1004",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "성별 : 수줍은 소녀",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "사는 곳 : 어두운 곳",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "좋아해 : 뾰족한 거, 붕대",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "싫어해 : 사탕",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "두려워 : 거미",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "퍼스널 컬러 : 우유 핑크",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "diary",
+          "title": "비밀 아닌 비밀 일기장",
+          "widgets": [
+            {
+              "kind": "link",
+              "text": "1999.08.17  새 연필",
+              "target": "entry0",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "1999.08.15  함께 숨바꼭질",
+              "target": "entry1",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "1999.08.13  씨앗이 자라는 날",
+              "target": "entry2",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "1999.08.11  비 오는 길",
+              "target": "entry3",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "1999.08.09  잠들기 전",
+              "target": "entry4",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry0",
+          "title": "새 연필",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "새 연필을 깎았다. 종이에 처음 닿는 소리가 좋아서 내 이름을 몇 번이나 썼다. 마지막 이름은 조금 낯설게 보였다.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Normal",
+              "corruptPositions": []
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry1",
+          "title": "함께 숨바꼭질",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "동생과 오후 내내 놀았다. 커튼 뒤에 숨으면 늘 금방 들켰다. 오늘은 한참 기다려도 아무도 찾으러 오지 않았다.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Normal",
+              "corruptPositions": []
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry2",
+          "title": "씨앗이 자라는 날",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "오늘 씨앗을 심었는데 금방 시들 것 같다. 물을 더 줘야 하나? 날씨가 너무 건조해서 걱정이다.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Normal",
+              "corruptPositions": []
+            },
+            {
+              "kind": "link",
+              "text": "날씨",
+              "target": "weather/home",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry3",
+          "title": "비 오는 길",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "우산 하나를 나눠 쓰고 집에 왔다. 왼쪽 어깨가 젖었지만 즐거웠다. 현관에는 젖은 신발이 한 켤레뿐이었다.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Normal",
+              "corruptPositions": []
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry4",
+          "title": "잠들기 전",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "창문을 닫고 작은 등을 켰다. 내일 하고 싶은 일을 종이에 적었다. 문밖에서 종이 넘기는 소리가 났다.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Normal",
+              "corruptPositions": []
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "album",
+          "title": "추억의 사진첩",
+          "widgets": [
+            {
+              "kind": "album",
+              "text": "기억 1",
+              "target": "",
+              "image": "cloud_photo",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 2",
+              "target": "",
+              "image": "watering",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 3",
+              "target": "",
+              "image": "black_key",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 4",
+              "target": "",
+              "image": "sprout",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 5",
+              "target": "",
+              "image": "bud",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 6",
+              "target": "",
+              "image": "sunset",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 7",
+              "target": "",
+              "image": "s3_past",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 8",
+              "target": "",
+              "image": "s5_photo",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 9",
+              "target": "",
+              "image": "s6_glitch",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "guest",
+          "title": "주인장에게 편지 쓰기",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "하고 싶은 이야기나 반가운 인사가 있다면 아래 버튼을 눌러 편지를 보내 주세요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "방명록 남기러 가기",
+              "target": "",
+              "image": "",
+              "action": "mail"
+            }
+          ]
+        },
+        {
+          "id": "links",
+          "title": "추천 사이트",
+          "widgets": [
+            {
+              "kind": "link",
+              "text": "파운드케이크 레시피",
+              "target": "recipe/home",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "작은 식물원",
+              "target": "plant/home",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "분실물 보관소",
+              "target": "lost/home",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "우리동네 마트",
+              "target": "mart/home",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "your_home",
+      "title": "너의 작은 공간",
+      "color": "#15106A",
+      "domain": "www.your-home.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "홈으로",
+          "target": "home"
+        },
+        {
+          "label": "자기소개",
+          "target": "about"
+        },
+        {
+          "label": "일기장",
+          "target": "diary"
+        },
+        {
+          "label": "사진첩",
+          "target": "album"
+        },
+        {
+          "label": "방명록",
+          "target": "guest"
+        },
+        {
+          "label": "추천 사이트",
+          "target": "links"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "Welcome to my Homepage!",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "안녕하세요! 조그만 인터넷 공간에 오신 것을 환영해요. 소중한 사진과 일기를 차곡차곡 모았어요. 천천히 둘러보고 편지도 보내 주세요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "오늘의 기분: 맑음  ·  오늘의 한마디: 여기서는 우리 모두 친구예요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "주인장에게 메일 보내기",
+              "target": "",
+              "image": "",
+              "action": "mail"
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "title": "자기소개",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "이름 : 몰라도 돼",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "나이 : 1004",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "성별 : 수줍은 소녀",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "사는 곳 : 어두운 곳",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "좋아해 : 사탕",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "싫어해 : 뾰족한 거, 붕대",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "두려워 : 거미",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "text",
+              "text": "퍼스널 컬러 : 우유 핑크",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "diary",
+          "title": "비밀 아닌 비밀 일기장",
+          "widgets": [
+            {
+              "kind": "link",
+              "text": "1999.08.17  문이 보이는 꿈",
+              "target": "entry0",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "1999.08.15  기억",
+              "target": "entry1",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "1999.08.13  밤의 발소리",
+              "target": "entry2",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "1999.08.11  약",
+              "target": "entry3",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "1999.08.09  보고 싶은 사람",
+              "target": "entry4",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry0",
+          "title": "문이 보이는 꿈",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "꿈속에서 문을 찾았다. 손잡이를 돌렸지만 방은 다시 내 방이었다.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Reversed",
+              "corruptPositions": [
+                4,
+                8
+              ]
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry1",
+          "title": "기억",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "잊지 않으려고 이름을 적었다. 아침에 보니 빈 종이가 되어 있었다.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Reversed",
+              "corruptPositions": [
+                4,
+                8
+              ]
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry2",
+          "title": "밤의 발소리",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "복도에서 발소리가 멈췄다. 나는 잠든 척 눈을 감았다.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Reversed",
+              "corruptPositions": [
+                4,
+                8
+              ]
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry3",
+          "title": "약",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "약을 먹고 잤다.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Normal",
+              "corruptPositions": []
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "entry4",
+          "title": "보고 싶은 사람",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "내일은 만나고 싶다. 창문 너머에도 내가 기다리고 있을까.",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "mode": "Reversed",
+              "corruptPositions": [
+                4,
+                8
+              ]
+            },
+            {
+              "kind": "link",
+              "text": "일기 목록으로",
+              "target": "diary",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "album",
+          "title": "추억의 사진첩",
+          "widgets": [
+            {
+              "kind": "album",
+              "text": "기억 1",
+              "target": "",
+              "image": "cloud_photo",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 2",
+              "target": "",
+              "image": "s8_inverse1",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 3",
+              "target": "",
+              "image": "s8_inverse2",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 4",
+              "target": "",
+              "image": "s8_inverse1",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 5",
+              "target": "",
+              "image": "s8_inverse2",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 6",
+              "target": "",
+              "image": "s8_inverse1",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 7",
+              "target": "",
+              "image": "s8_inverse2",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 8",
+              "target": "",
+              "image": "s8_inverse1",
+              "action": "navigate"
+            },
+            {
+              "kind": "album",
+              "text": "기억 9",
+              "target": "",
+              "image": "s8_inverse2",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "guest",
+          "title": "주인장에게 편지 쓰기",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "하고 싶은 이야기나 반가운 인사가 있다면 아래 버튼을 눌러 편지를 보내 주세요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "방명록 남기러 가기",
+              "target": "",
+              "image": "",
+              "action": "mail"
+            }
+          ]
+        },
+        {
+          "id": "links",
+          "title": "추천 사이트",
+          "widgets": [
+            {
+              "kind": "link",
+              "text": "파운드케이크 레시피",
+              "target": "recipe/home",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "작은 식물원",
+              "target": "plant/home",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "분실물 보관소",
+              "target": "lost/home",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "우리동네 마트",
+              "target": "mart/home",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recipe",
+      "title": "작은 오븐 레시피",
+      "color": "#B98255",
+      "domain": "www.recipe.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "안내",
+          "target": "home"
+        },
+        {
+          "label": "보관 목록",
+          "target": "list"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "작은 오븐 레시피",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "버터와 설탕을 섞고 달걀을 천천히 넣어 주세요. 밀가루를 가볍게 섞어 틀에 담고 노릇해질 때까지 구워요. 기다리는 동안 차 한 잔은 어때요?",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "list",
+          "title": "기록",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "노란 장갑 한 짝 / 표지 없는 수첩 / 멈춘 시계. 주인을 기다리고 있습니다.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "처음으로",
+              "target": "home",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plant",
+      "title": "작은 식물원",
+      "color": "#51785A",
+      "domain": "www.plant.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "안내",
+          "target": "home"
+        },
+        {
+          "label": "보관 목록",
+          "target": "list"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "작은 식물원",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "씨앗은 흙 속에서 시간을 세고 있어요. 햇빛과 적당한 물, 그리고 기다림이 필요해요. 어제와 똑같아 보여도 조금씩 자라고 있답니다.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "list",
+          "title": "기록",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "노란 장갑 한 짝 / 표지 없는 수첩 / 멈춘 시계. 주인을 기다리고 있습니다.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "처음으로",
+              "target": "home",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lost",
+      "title": "분실물 보관소 1989",
+      "color": "#72717D",
+      "domain": "www.lost.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "안내",
+          "target": "home"
+        },
+        {
+          "label": "보관 목록",
+          "target": "list"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "분실물 보관소 1989",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "잃어버린 장갑과 이름 없는 수첩을 보관합니다. 기억나는 물건이 있으면 천천히 살펴보세요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "globe",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate",
+              "yourOnly": true
+            }
+          ]
+        },
+        {
+          "id": "list",
+          "title": "기록",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "노란 장갑 한 짝 / 표지 없는 수첩 / 멈춘 시계. 주인을 기다리고 있습니다.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "처음으로",
+              "target": "home",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mart",
+      "title": "WE MARKET",
+      "color": "#67BDD1",
+      "domain": "www.mart.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "Home",
+          "target": "home"
+        },
+        {
+          "label": "Sale",
+          "target": "sale"
+        },
+        {
+          "label": "About",
+          "target": "about"
+        },
+        {
+          "label": "장바구니",
+          "target": "cart"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "없는 게 없다! 우리 동네 마트",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "식료품부터 생활용품까지! 금주의 알뜰 상품을 만나보세요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "BIG SALE!",
+              "target": "sale",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "DELIVERY!",
+              "target": "about",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "sale",
+          "title": "금주의 알뜰 상품",
+          "widgets": [
+            {
+              "kind": "products",
+              "text": "",
+              "target": "mart",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "banner",
+              "text": "CandyKini · 달콤한 간식 세상",
+              "target": "candy/home",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "banner",
+              "text": "BREAD HOUSE · 갓 구운 빵",
+              "target": "bread/home",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "title": "배송 안내",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "반가워요. 작은 장바구니에 하루의 행복을 담아 보세요. 현재 주문 접수는 잠시 쉬고 있습니다.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "cart",
+          "title": "나의 장바구니",
+          "widgets": [
+            {
+              "kind": "cart",
+              "text": "",
+              "target": "mart",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "candy",
+      "title": "CandyKini",
+      "color": "#EF88D8",
+      "domain": "www.candy.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "상품보기",
+          "target": "products"
+        },
+        {
+          "label": "이벤트",
+          "target": "event"
+        },
+        {
+          "label": "About",
+          "target": "about"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "달콤한 간식 세상!",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "사탕 한 알의 작은 행복을 골라 보세요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "banner",
+              "text": "SALE!!",
+              "target": "products",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "products",
+          "title": "달콤한 상품보기",
+          "widgets": [
+            {
+              "kind": "products",
+              "text": "",
+              "target": "candy",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "cart",
+              "text": "",
+              "target": "candy",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "event",
+          "title": "깜짝 이벤트 진행중",
+          "widgets": [
+            {
+              "kind": "reward",
+              "text": "이벤트 보상 받기",
+              "target": "plank",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "title": "우리의 이야기",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "포장지를 열기 전의 설렘을 기억하나요? 우리는 달콤한 추억을 작은 상자에 담아요.\n\n1999년부터 같은 자리에서 기다리고 있습니다.\n\n찾아와 주셔서 고마워요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "banner",
+              "text": "아직 돌아오지 않은 사람들",
+              "target": "missing/home",
+              "image": "",
+              "action": "navigate",
+              "yourOnly": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bread",
+      "title": "BREAD HOUSE",
+      "color": "#B48352",
+      "domain": "www.bread.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "이달의 빵",
+          "target": "best"
+        },
+        {
+          "label": "상품보기",
+          "target": "products"
+        },
+        {
+          "label": "About",
+          "target": "about"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "매일 아침 갓 구운 빵",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "따뜻한 오븐 앞에서 하루를 시작합니다.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "이달의 추천 보기",
+              "target": "best",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "best",
+          "title": "이달의 빵",
+          "widgets": [
+            {
+              "kind": "products",
+              "text": "",
+              "target": "bread",
+              "image": "",
+              "action": "navigate",
+              "limit": 3
+            }
+          ]
+        },
+        {
+          "id": "products",
+          "title": "빵 구경하기",
+          "widgets": [
+            {
+              "kind": "products",
+              "text": "",
+              "target": "bread",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "title": "About Bread House",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "1998년 문을 연 작은 동네 빵집입니다. 종이봉투에 따뜻한 빵을 담아 드리던 마음을 이곳에도 간직하고 있어요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "SKY WEATHER CENTER",
+      "color": "#6673B9",
+      "domain": "www.weather.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "Today's Weather",
+          "target": "home"
+        },
+        {
+          "label": "Weekly Forecast",
+          "target": "weekly"
+        },
+        {
+          "label": "Bulletin Board",
+          "target": "board"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "오늘의 하늘 이야기",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "오늘은 대체로 맑고, 수요일에는 비가 오겠습니다.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "이번 주 예보",
+              "target": "weekly",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "weekly",
+          "title": "주간 예보",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "월요일  맑음 17° / 6°\n화요일 구름 조금 16° / 7°\n수요일 비 14° / 9°\n목요일 천둥·번개 15° / 10°\n금요일 맑음 16° / 7°",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "board",
+          "title": "알림 게시판",
+          "widgets": [
+            {
+              "kind": "link",
+              "text": "우산 무료 제공 서비스",
+              "target": "umbrella",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "link",
+              "text": "인터넷 친구 여러분께 드리는 인사",
+              "target": "hello",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "hello",
+          "title": "반갑습니다",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "여러분의 하루가 맑기를 바랍니다. 비 오는 날에도 창밖을 한 번 바라봐 주세요.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "umbrella",
+          "title": "우산 무료 제공 서비스",
+          "widgets": [
+            {
+              "kind": "text",
+              "text": "최근 비가 많이 오고 있어 우산을 무료로 제공해주는 서비스를 시작하였습니다.\n필요하신 분들은 하단의 버튼을 통해 기회를 누리시기 바랍니다.",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            },
+            {
+              "kind": "reward",
+              "text": "우산 무료 받기",
+              "target": "handle",
+              "image": "s8_umbrella",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "title": "Memory Press",
+      "color": "#4C5064",
+      "domain": "www.news.example",
+      "yourOnly": true,
+      "menu": [
+        {
+          "label": "Home",
+          "target": "home"
+        },
+        {
+          "label": "안내",
+          "target": "info"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "Memory Press",
+          "widgets": [
+            {
+              "kind": "news",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "info",
+          "title": "Memory Press",
+          "widgets": [
+            {
+              "kind": "notfound",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hospital",
+      "title": "고요한 마음 상담원",
+      "color": "#4C5064",
+      "domain": "www.hospital.example",
+      "yourOnly": true,
+      "menu": [
+        {
+          "label": "Home",
+          "target": "home"
+        },
+        {
+          "label": "안내",
+          "target": "info"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "고요한 마음 상담원",
+          "widgets": [
+            {
+              "kind": "hospital",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "info",
+          "title": "고요한 마음 상담원",
+          "widgets": [
+            {
+              "kind": "notfound",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "missing",
+      "title": "돌아오지 않은 사람들",
+      "color": "#4C5064",
+      "domain": "www.missing.example",
+      "yourOnly": true,
+      "menu": [
+        {
+          "label": "Home",
+          "target": "home"
+        },
+        {
+          "label": "안내",
+          "target": "info"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "돌아오지 않은 사람들",
+          "widgets": [
+            {
+              "kind": "missing",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "info",
+          "title": "돌아오지 않은 사람들",
+          "widgets": [
+            {
+              "kind": "notfound",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doll",
+      "title": "DOLL CABINET",
+      "color": "#4C5064",
+      "domain": "www.doll.example",
+      "yourOnly": true,
+      "menu": [
+        {
+          "label": "Home",
+          "target": "home"
+        },
+        {
+          "label": "Buy",
+          "target": "buy"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "DOLL CABINET",
+          "widgets": [
+            {
+              "kind": "doll",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "info",
+          "title": "DOLL CABINET",
+          "widgets": [
+            {
+              "kind": "notfound",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "buy",
+          "title": "Buy",
+          "widgets": [
+            {
+              "kind": "products",
+              "text": "",
+              "target": "doll",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eye",
+      "title": "",
+      "color": "#4C5064",
+      "domain": "www.eye.example",
+      "yourOnly": true,
+      "menu": [
+        {
+          "label": "Home",
+          "target": "home"
+        },
+        {
+          "label": "안내",
+          "target": "info"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "",
+          "widgets": [
+            {
+              "kind": "eye",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "info",
+          "title": "",
+          "widgets": [
+            {
+              "kind": "notfound",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "notfound",
+      "title": "이 페이지를 찾을 수 없습니다.",
+      "color": "#4C5064",
+      "domain": "www.notfound.example",
+      "yourOnly": false,
+      "menu": [
+        {
+          "label": "Home",
+          "target": "home"
+        },
+        {
+          "label": "안내",
+          "target": "info"
+        }
+      ],
+      "pages": [
+        {
+          "id": "home",
+          "title": "이 페이지를 찾을 수 없습니다.",
+          "widgets": [
+            {
+              "kind": "notfound",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        },
+        {
+          "id": "info",
+          "title": "이 페이지를 찾을 수 없습니다.",
+          "widgets": [
+            {
+              "kind": "notfound",
+              "text": "",
+              "target": "",
+              "image": "",
+              "action": "navigate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

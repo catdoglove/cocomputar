@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2684625df90486d41b58e59fd4047170, type: 3}
+  m_Name: Catalog
+  m_EditorClassIdentifier: Assembly-CSharp::CoComputar.GameCatalog
+  theme: {fileID: 11400000, guid: f62e4318869957d45b72b9734240f581, type: 2}
+  sprites: {fileID: 11400000, guid: 9b9cf9a6f3425be41a35ced3740533e1, type: 2}
+  audio: {fileID: 11400000, guid: e6da5d2a46e30824e813eda7d69c6f90, type: 2}
+  crt: {fileID: 11400000, guid: fb07f637b6fa6544caef164af9c3185b, type: 2}
+  mixer: {fileID: 24100000, guid: 11aec3fe304fcb04db2614de3b8cbeb0, type: 2}
+  musicGroup: {fileID: 24310000, guid: 11aec3fe304fcb04db2614de3b8cbeb0, type: 2}
+  effectsGroup: {fileID: 24310001, guid: 11aec3fe304fcb04db2614de3b8cbeb0, type: 2}
+  stages:
+  - {fileID: 11400000, guid: 7604f98126f6f1043ac1702c95f15861, type: 2}
+  - {fileID: 11400000, guid: 13849d04af24c4d4a86b966e8424b95f, type: 2}
+  - {fileID: 11400000, guid: b18a2bcd06470a34e9e043cf375001ef, type: 2}
+  - {fileID: 11400000, guid: e22c53c43902e154dbbf76e5e49ea3e2, type: 2}
+  - {fileID: 11400000, guid: 5d9debfcb7a791c4db63fe7af39d9bd5, type: 2}
+  - {fileID: 11400000, guid: c6133a417fe125b4889221dc9fd07141, type: 2}
+  - {fileID: 11400000, guid: e81045cbce102fb4aa38c7cdd5a55dce, type: 2}
+  - {fileID: 11400000, guid: bf3fe3789c71cf245bb19776592732c1, type: 2}
+  - {fileID: 11400000, guid: 1336855b6f29e0540830a1931707918d, type: 2}
+  - {fileID: 11400000, guid: 8b4d59636b656d145a1b96cedd234449, type: 2}

@@ -1,0 +1,288 @@
+{
+  "cardCount": 99,
+  "ropeCount": 20,
+  "groups": [
+    {
+      "game": "card",
+      "name": "data",
+      "folder": "card",
+      "files": [
+        "card_data01",
+        "card_data02",
+        "card_data03",
+        "card_data04",
+        "card_data05",
+        "card_data06",
+        "card_data07",
+        "card_data08",
+        "card_data09",
+        "card_data10",
+        "card_data11",
+        "card_data12",
+        "card_data13",
+        "card_data14",
+        "card_data15",
+        "card_data16",
+        "card_data17",
+        "card_data18",
+        "card_data19",
+        "card_data20",
+        "card_data21",
+        "card_data22",
+        "card_data23",
+        "card_data24",
+        "card_data25",
+        "card_data26",
+        "card_data27",
+        "card_data28",
+        "card_data29",
+        "card_data30",
+        "card_data31",
+        "card_data32",
+        "card_data33",
+        "card_data34",
+        "card_data35",
+        "card_data36",
+        "card_data37",
+        "card_data38",
+        "card_data39",
+        "card_data40",
+        "card_data41",
+        "card_data42",
+        "card_data43",
+        "card_data44",
+        "card_data45",
+        "card_data46",
+        "card_data47",
+        "card_data48",
+        "card_data49",
+        "card_data50",
+        "card_data51",
+        "card_data52",
+        "card_data53",
+        "card_data54",
+        "card_data55",
+        "card_data56",
+        "card_data57",
+        "card_data58",
+        "card_data59",
+        "card_data60",
+        "card_data61",
+        "card_data62",
+        "card_data63",
+        "card_data64",
+        "card_data65",
+        "card_data66",
+        "card_data67",
+        "card_data68",
+        "card_data69",
+        "card_data70",
+        "card_data71",
+        "card_data72",
+        "card_data73",
+        "card_data74",
+        "card_data75",
+        "card_data76",
+        "card_data77",
+        "card_data78",
+        "card_data79",
+        "card_data80",
+        "card_data81",
+        "card_data82",
+        "card_data83",
+        "card_data84",
+        "card_data85",
+        "card_data86",
+        "card_data87",
+        "card_data88",
+        "card_data89",
+        "card_data90",
+        "card_data91",
+        "card_data92",
+        "card_data93",
+        "card_data94",
+        "card_data95",
+        "card_data96",
+        "card_data97",
+        "card_data98",
+        "card_data99"
+      ]
+    },
+    {
+      "game": "card",
+      "name": "sound",
+      "folder": "card_sound",
+      "files": [
+        "card_bg01.xyz",
+        "card_bg02.xyz"
+      ]
+    },
+    {
+      "game": "card",
+      "name": "picture",
+      "folder": "card_picture",
+      "files": [
+        "card_face.xyz"
+      ]
+    },
+    {
+      "game": "rope",
+      "name": "data",
+      "folder": "rope",
+      "files": [
+        "rope_data01",
+        "rope_data02",
+        "rope_data03",
+        "rope_data04",
+        "rope_data05",
+        "rope_data06",
+        "rope_data07",
+        "rope_data08",
+        "rope_data09",
+        "rope_data10",
+        "rope_data11",
+        "rope_data12",
+        "rope_data13",
+        "rope_data14",
+        "rope_data15",
+        "rope_data16",
+        "rope_data17",
+        "rope_data18",
+        "rope_data19",
+        "rope_data20"
+      ]
+    },
+    {
+      "game": "rope",
+      "name": "sound",
+      "folder": "rope_sound",
+      "files": [
+        "rope_bg01.xyz",
+        "rope_bg02.xyz"
+      ]
+    },
+    {
+      "game": "rope",
+      "name": "picture",
+      "folder": "rope_picture",
+      "files": [
+        "rope_face.xyz"
+      ]
+    },
+    {
+      "game": "rope",
+      "name": "system",
+      "folder": "rope_system",
+      "files": [
+        "rope_language1.xyz",
+        "rope_language2.xyz",
+        "rope_language3.xyz",
+        "rope_setting1.xyz",
+        "rope_setting2.xyz",
+        "rope_setting3.xyz",
+        "time"
+      ]
+    }
+  ],
+  "starTimeLimitSec": 30,
+  "cardMismatchSeconds": 0.8,
+  "cardPairs": [
+    3,
+    5,
+    10
+  ],
+  "ropePeriod": 0.6,
+  "jumpSeconds": 0.38,
+  "ropeGoal": 10,
+  "snakeCols": 17,
+  "snakeRows": 15,
+  "snakeCell": 30,
+  "snakeStep": 0.2,
+  "snakeInitialCols": 9,
+  "snakeInitialRows": 7,
+  "snakeGoal": 10,
+  "initialText": "player = P1\nplayer_name = ZZZ\nplayer_age = 10\nplayer_color = pink\nplay_bg = home\nplay_time = 1",
+  "easterSeconds": 3,
+  "easterConditions": [
+    {
+      "key": "player",
+      "value": "P2"
+    },
+    {
+      "key": "player_age",
+      "value": "12"
+    }
+  ],
+  "popupCount": 10,
+  "popupDelay": 0.1,
+  "popupStepX": 30,
+  "popupStepY": 20,
+  "bgm": "bgm_stage06",
+  "slots": [
+    {
+      "id": "A",
+      "x": 25,
+      "y": 140,
+      "width": 148,
+      "height": 195
+    },
+    {
+      "id": "B",
+      "x": 173,
+      "y": 140,
+      "width": 145,
+      "height": 195
+    },
+    {
+      "id": "C",
+      "x": 318,
+      "y": 155,
+      "width": 132,
+      "height": 180
+    }
+  ],
+  "schema": [
+    {
+      "key": "player",
+      "kind": "enum",
+      "value": "",
+      "allowed": [
+        "P1",
+        "P2"
+      ]
+    },
+    {
+      "key": "player_name",
+      "kind": "fixed",
+      "value": "ZZZ"
+    },
+    {
+      "key": "player_age",
+      "kind": "int",
+      "value": "",
+      "min": 1,
+      "max": 99,
+      "clamp": false
+    },
+    {
+      "key": "player_color",
+      "kind": "fixed",
+      "value": "pink"
+    },
+    {
+      "key": "play_bg",
+      "kind": "fixed",
+      "value": "home"
+    },
+    {
+      "key": "play_time",
+      "kind": "int",
+      "value": "",
+      "min": 0,
+      "max": 999,
+      "clamp": true
+    }
+  ],
+  "cardPreviewSeconds": 3,
+  "easterStillSeconds": 2
+}

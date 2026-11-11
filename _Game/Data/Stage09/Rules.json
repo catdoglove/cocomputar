@@ -1,0 +1,131 @@
+{
+  "answerFileId": "record3",
+  "answerExtension": "png",
+  "randomizeAnswer": false,
+  "npcX": 860,
+  "npcY": 180,
+  "npcLabel": "열쇠",
+  "npcIcon": "icon_key_special",
+  "revealZoom": 3,
+  "maxZoom": 4,
+  "zoomStep": 0.5,
+  "headWaitSeconds": 6,
+  "headRect": {
+    "x": 58,
+    "y": 190,
+    "width": 290,
+    "height": 150
+  },
+  "doorRect": {
+    "x": 0.5,
+    "y": 0.51,
+    "width": 0.08,
+    "height": 0.1
+  },
+  "doorSprite": "door",
+  "hints": [
+    {
+      "fileId": "image2",
+      "x": 0.45,
+      "y": 0.5,
+      "text": "",
+      "answer": true
+    },
+    {
+      "fileId": "image0",
+      "x": 0.4,
+      "y": 0.6,
+      "text": "기억의 조각"
+    },
+    {
+      "fileId": "image4",
+      "x": 0.5,
+      "y": 0.5,
+      "text": "오래된 낙서"
+    },
+    {
+      "fileId": "image5",
+      "x": 0.4,
+      "y": 0.6,
+      "text": "여름의 흔적"
+    }
+  ],
+  "texts": [
+    {
+      "id": "locked",
+      "text": "폴더가 잠겨 있습니다. 열쇠가 필요합니다."
+    },
+    {
+      "id": "wrong",
+      "text": "맞지 않는 열쇠입니다."
+    },
+    {
+      "id": "zip",
+      "text": "마우스를 사용해 압축된 파일을 먼저 해제하시오."
+    },
+    {
+      "id": "corrupt",
+      "text": "이 이미지 파일은 손상되었거나 형식이 올바르지 않습니다."
+    },
+    {
+      "id": "duplicate",
+      "text": "같은 이름의 파일이 이미 있습니다."
+    },
+    {
+      "id": "extension",
+      "text": "확장명을 바꾸면 파일을 사용하지 못할 수도 있습니다. 변경하시겠습니까?"
+    },
+    {
+      "id": "extract",
+      "text": "압축해제"
+    },
+    {
+      "id": "rename",
+      "text": "이름 바꾸기"
+    },
+    {
+      "id": "delete",
+      "text": "삭제"
+    },
+    {
+      "id": "restore",
+      "text": "복원"
+    },
+    {
+      "id": "confirm",
+      "text": "확인"
+    },
+    {
+      "id": "cancel",
+      "text": "취소"
+    },
+    {
+      "id": "encoding",
+      "text": "인코딩"
+    },
+    {
+      "id": "pause",
+      "text": "일시정지"
+    },
+    {
+      "id": "resume",
+      "text": "계속"
+    },
+    {
+      "id": "title",
+      "text": "타이틀"
+    },
+    {
+      "id": "quit",
+      "text": "종료"
+    },
+    {
+      "id": "warning",
+      "text": "경고"
+    },
+    {
+      "id": "headLine",
+      "text": "가져가렴."
+    }
+  ]
+}

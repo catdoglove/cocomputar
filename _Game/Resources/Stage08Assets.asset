@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad89a96b12754d649bf45a08caee072f, type: 3}
+  m_Name: Stage08Assets
+  m_EditorClassIdentifier: Assembly-CSharp::CoComputar.Stage08Assets
+  sites: {fileID: 4900000, guid: a0e2a78a7d9e08246b66fb3e247d98ee, type: 3}
+  products: {fileID: 4900000, guid: 1ccfbef0d93ed9146889e6fbb992000f, type: 3}
+  mail: {fileID: 4900000, guid: c0c295ec953db004989a1ab6b27b2075, type: 3}
+  files: {fileID: 4900000, guid: 5899e956c834b4c4ba96d994a0b4467c, type: 3}
+  rules: {fileID: 4900000, guid: 0b5957625581a4640a68658d6c055b81, type: 3}
+  specialDialogue: {fileID: 4900000, guid: 04665637e3000e141be87f52224085cb, type: 3}
+  specialRules: {fileID: 4900000, guid: a34e90a9304dbb8429ee408da1512d29, type: 3}

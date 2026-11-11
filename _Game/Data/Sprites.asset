@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7e99b41e3ff922418b88462c16752d4, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: Assembly-CSharp::CoComputar.SpriteDatabase
+  entries:
+  - key: candy
+    sprite: {fileID: -2757008047180432429, guid: 8e8cb73ba507f6c46a933c6003605b2b, type: 3}
+  - key: cat
+    sprite: {fileID: 1075993247170539406, guid: 74342191a4bc8174b97772081bfc2774, type: 3}
+  - key: computer
+    sprite: {fileID: 1152356169552002576, guid: 894abe37af657c541b00da139722588a, type: 3}
+  - key: cursor
+    sprite: {fileID: 6554736390298987251, guid: 71ff22b413746c2459dc82d6a7655733, type: 3}
+  - key: desktop
+    sprite: {fileID: -4126882495801548486, guid: 0f56ece61f69c784eb442ef77b90b371, type: 3}
+  - key: document
+    sprite: {fileID: -504578970313237647, guid: d2871aeb52885d84d9be14abb1ac02ed, type: 3}
+  - key: dog
+    sprite: {fileID: 1480917699468073914, guid: 106f9b99936686745a3ee604ae386399, type: 3}
+  - key: door
+    sprite: {fileID: -7341407202210888751, guid: fad7cbb2fe91d2f4f8f12b90f795205d, type: 3}
+  - key: family
+    sprite: {fileID: 1168986168308937329, guid: c005bfedb5e45e341bbf637cd06aac35, type: 3}
+  - key: folder
+    sprite: {fileID: 8631275813819379827, guid: f89884737c468e14cac30d08c54c18be, type: 3}
+  - key: mail_closed
+    sprite: {fileID: 1839605163882809385, guid: cb3ba3912b9d4e3448f26a1037b62b91, type: 3}
+  - key: mail_open
+    sprite: {fileID: -8316609391755881685, guid: 5e9d4e940bcd5c540a85cf5c16dd4d09, type: 3}
+  - key: music
+    sprite: {fileID: 5044122071167073304, guid: 5b6495096514a904f94f13ddcba3b9f5, type: 3}
+  - key: picture
+    sprite: {fileID: 2274226506919886036, guid: 94c726c423fe79b45a26a4798cc6b6e9, type: 3}
+  - key: player_back
+    sprite: {fileID: -8894531281158279759, guid: f12b47157e3595347bd44c85645eb410, type: 3}
+  - key: player_front
+    sprite: {fileID: 8265333006708780974, guid: f80c107256c289f45962305218ca8f2c, type: 3}
+  - key: player_side
+    sprite: {fileID: 2966388318634517685, guid: 33c7f4bafbe898a4ca18734dbfc4e090, type: 3}
+  - key: player_back_step
+    sprite: {fileID: 8801625518632972921, guid: 03f3678c32eff234ca1725cdb7af12f7, type: 3}
+  - key: player_body
+    sprite: {fileID: 1606804069718307142, guid: 46639e515aab946489d735732e5de547, type: 3}
+  - key: player_front_step
+    sprite: {fileID: -4948261038531189523, guid: 665fbde0de1ebf6458322e36f3b1816c, type: 3}
+  - key: player_head
+    sprite: {fileID: 7703799681169377718, guid: f0d887361dd5d644b813305d5312588b, type: 3}
+  - key: player_side_step
+    sprite: {fileID: -7586774205260876864, guid: 39cbd2fb002695e47bf03be9d95b3a10, type: 3}
+  - key: tree
+    sprite: {fileID: -8667466294985060184, guid: 13ac514ba628a6e4a8f48bca3844aa43, type: 3}
+  - key: black_key
+    sprite: {fileID: -3979012287641653380, guid: aa590205aa8342d40981a983efbc4579, type: 3}
+  - key: black_square
+    sprite: {fileID: 3601546126906379266, guid: 3b7a17e69467dfb4c83f3b078383ab0d, type: 3}
+  - key: bouquet
+    sprite: {fileID: -6686982699164701678, guid: fb09866af0aa50c4da96653a345f72d4, type: 3}
+  - key: bud
+    sprite: {fileID: 1758502510490650875, guid: 09425c093edd7224e899de2758cbda8c, type: 3}
+  - key: cloud_drawn
+    sprite: {fileID: 1007445780437844540, guid: c7b0a024c40d5164f8b0e007cfe79ce4, type: 3}
+  - key: cloud_drawn2
+    sprite: {fileID: 5426425422955012742, guid: a0ef2b648bfd3f84cafab4504ad0db4b, type: 3}
+  - key: cloud_photo
+    sprite: {fileID: -8044841928639238741, guid: 1ac53497c6a68e845bf1ee986b1002a6, type: 3}
+  - key: key_morph0
+    sprite: {fileID: -8279233854262655824, guid: 5dcd8c14fb2112e4faf7e0c238b53805, type: 3}
+  - key: key_morph1
+    sprite: {fileID: 7290172828710510783, guid: f665132e811249342b3a22e22ca86e4d, type: 3}
+  - key: key_morph2
+    sprite: {fileID: 4808315664629613138, guid: c8edcdb1c8aa52241b1caf953674dc77, type: 3}
+  - key: key_morph3
+    sprite: {fileID: 1020323088652687440, guid: 184fd9a5558520c4290666212ff4479c, type: 3}
+  - key: key_morph4
+    sprite: {fileID: -3383521593414554052, guid: 198e3b8808282d04d95844050dc2b657, type: 3}
+  - key: key_morph5
+    sprite: {fileID: -5278396234641190225, guid: 58778310852130840bb0e94ee602a8fd, type: 3}
+  - key: outdoor
+    sprite: {fileID: -7334989210499480975, guid: 1e6451e03fb1f444fb4722faa722c1b7, type: 3}
+  - key: photo_bloom
+    sprite: {fileID: -3696675631713783744, guid: 35de774436bd6a34eb9aa66501aa35d8, type: 3}
+  - key: sprout
+    sprite: {fileID: -6710241550191920354, guid: fa1048cd1e9fb9248bda4587f3244d6f, type: 3}
+  - key: sunset
+    sprite: {fileID: 689283645380311244, guid: 32bdd03e7dfe63445a254e4003a37e1a, type: 3}
+  - key: trash
+    sprite: {fileID: 7858980336673299937, guid: e964e8d4d33ae3d4c89a6da481f50a8f, type: 3}
+  - key: tulip
+    sprite: {fileID: 2515119935975492255, guid: e526423f70ead774787bb53ebdea074f, type: 3}
+  - key: twin_black
+    sprite: {fileID: -5684937473437667539, guid: ea19d6bea50dea246adaa2cd12b46875, type: 3}
+  - key: twin_white
+    sprite: {fileID: 3213519384869187283, guid: 6faf633df9e79584182d8c7b244f33fc, type: 3}
+  - key: watering
+    sprite: {fileID: 839453171164832311, guid: 76d5a9b0bbf60d04d90b47eb04d4cea7, type: 3}
+  - key: white_key
+    sprite: {fileID: -6244674589667773141, guid: 9002b1cd2f2cef246a85414f6c637d59, type: 3}
+  - key: icon_geurim
+    sprite: {fileID: -5959249592697853531, guid: 9b0a2fe5f6c968b4880eaa6b7986b032, type: 3}
+  - key: icon_geurim_young
+    sprite: {fileID: 5886050032982067213, guid: ea11ab1c9b9afa44bbf036e416cca559, type: 3}
+  - key: s3_foot_left
+    sprite: {fileID: 4278024943659752981, guid: be6a8356183e8a748b79b54cfc478d24, type: 3}
+  - key: s3_foot_right
+    sprite: {fileID: -9115417556110190519, guid: ec987c8a404c9d4478cc98092ce657ea, type: 3}
+  - key: s3_past
+    sprite: {fileID: 882948446439358390, guid: 397ecc2d200142c4fa2aaf8df4b01863, type: 3}
+  - key: s3_program
+    sprite: {fileID: 6426259256089069838, guid: 317b0f2897432744992bb0780c5e5d08, type: 3}
+  - key: s3_vision
+    sprite: {fileID: -8013175433538317380, guid: ddfe2639eeb120b46840bfb0ff80fdd0, type: 3}
+  - key: icon_broken
+    sprite: {fileID: -7526426259802269825, guid: 9fc6e769fc79f5145a40cf239308be5d, type: 3}
+  - key: icon_memo
+    sprite: {fileID: -9071707276696083848, guid: 0f8a66b83c8703c40bebf202fd46d677, type: 3}
+  - key: s4_diary
+    sprite: {fileID: -9040178534842487771, guid: be5558df61ed8364ea6493f7a413d8e9, type: 3}
+  - key: s4_diary_icon
+    sprite: {fileID: -7957060293342794187, guid: 02cc37a58419683428f00f69f7480477, type: 3}
+  - key: s4_zip
+    sprite: {fileID: -3159652236785558867, guid: f3f4c5e0c263d3a41a36d9ad7e0c76ae, type: 3}
+  - key: program
+    sprite: {fileID: 6426259256089069838, guid: 317b0f2897432744992bb0780c5e5d08, type: 3}
+  - key: icon_speaker
+    sprite: {fileID: -8993414254287711990, guid: d419ac9d489a4834f91920162fdfaf2d, type: 3}
+  - key: s5_half_a
+    sprite: {fileID: -6082018738376722888, guid: f48dbd2ea7bacaf4d9fd487e5c11a5b8, type: 3}
+  - key: s5_half_b
+    sprite: {fileID: 602671183607740079, guid: b97d35d05fe766c459552afe29c69e0c, type: 3}
+  - key: s5_photo
+    sprite: {fileID: -8637195381181533997, guid: 42f9162c4b3473242979072d2c458daa, type: 3}
+  - key: portrait_twin_black
+    sprite: {fileID: 21300000, guid: 188f2f395dcfc3d45869093265d6535c, type: 3}
+  - key: portrait_twin_white
+    sprite: {fileID: 21300000, guid: fc6eaa2e27c56f045ab520247f5665eb, type: 3}
+  - key: portrait_geurim
+    sprite: {fileID: 21300000, guid: 6f8cffb5140bf6c4da08e3d9b5849c40, type: 3}
+  - key: portrait_geurim_young
+    sprite: {fileID: 21300000, guid: d6a16a94bad8b2748a965bb9bd0ce627, type: 3}
+  - key: portrait_memo
+    sprite: {fileID: 21300000, guid: 1147182ab7a611942ad1baab9c36fa9c, type: 3}
+  - key: portrait_speaker
+    sprite: {fileID: 21300000, guid: 1a8f75558550e0b4e8e01cbb0a2ee74c, type: 3}
+  - key: portrait_folder
+    sprite: {fileID: 21300000, guid: d4646877f9337d1448057d685f05937a, type: 3}
+  - key: portrait_v
+    sprite: {fileID: 21300000, guid: 0902cbb80dd28b44e8cdcffd17ad682a, type: 3}
+  - key: icon_joystick
+    sprite: {fileID: -2955256915233230967, guid: ad190c64925e0774ba32428810843b27, type: 3}
+  - key: portrait_joystick
+    sprite: {fileID: 1577733577929390051, guid: 0cdba460941c83e4cbaf502915d44df3, type: 3}
+  - key: s6_A
+    sprite: {fileID: 2870054963963021270, guid: 9b60d3b6195687640b8518d0fee203c4, type: 3}
+  - key: s6_B
+    sprite: {fileID: 6691480538559800334, guid: 64a95396be2dc414488b4249b4224c8c, type: 3}
+  - key: s6_book
+    sprite: {fileID: -6070960068361605891, guid: 9e681af8ce6e9c942bff647cda97a596, type: 3}
+  - key: s6_book_done
+    sprite: {fileID: 1643077609222805615, guid: b278ac3b4e30115489273f3340076838, type: 3}
+  - key: s6_C
+    sprite: {fileID: 3174567639742950694, guid: aafbd9816fc626d42998e037d4d6b018, type: 3}
+  - key: s6_glitch
+    sprite: {fileID: -4750018012424805422, guid: 911039016c2b65542af73102694a5403, type: 3}
+  - key: portrait_floppy
+    sprite: {fileID: 21300000, guid: d4646877f9337d1448057d685f05937a, type: 3}
+  - key: icon_floppy
+    sprite: {fileID: 3386869746556969770, guid: e4f8b6e30ca60514c8a8fb1db1c40535, type: 3}
+  - key: s7_map
+    sprite: {fileID: -985360091606749116, guid: f54feb5852cc24046887c2fbd230231a, type: 3}
+  - key: s7_shears
+    sprite: {fileID: -3030540585283104863, guid: a5d4025f931d22c40bc47059aa7d180f, type: 3}
+  - key: s8_plank
+    sprite: {fileID: -504578970313237647, guid: d2871aeb52885d84d9be14abb1ac02ed, type: 3}
+  - key: s8_handle
+    sprite: {fileID: 2274226506919886036, guid: 94c726c423fe79b45a26a4798cc6b6e9, type: 3}
+  - key: s8_globe
+    sprite: {fileID: 1152356169552002576, guid: 894abe37af657c541b00da139722588a, type: 3}
+  - key: s8_candy
+    sprite: {fileID: 2274226506919886036, guid: 94c726c423fe79b45a26a4798cc6b6e9, type: 3}
+  - key: s8_bread
+    sprite: {fileID: 2274226506919886036, guid: 94c726c423fe79b45a26a4798cc6b6e9, type: 3}
+  - key: s8_mart
+    sprite: {fileID: 2274226506919886036, guid: 94c726c423fe79b45a26a4798cc6b6e9, type: 3}
+  - key: s8_doll
+    sprite: {fileID: 21300000, guid: d4646877f9337d1448057d685f05937a, type: 3}
+  - key: s8_color
+    sprite: {fileID: 2274226506919886036, guid: 94c726c423fe79b45a26a4798cc6b6e9, type: 3}
+  - key: icon_npc_stage8
+    sprite: {fileID: 3208310023674105131, guid: f36ef21dfe5340840b13749874d40a1c, type: 3}
+  - key: s8_umbrella
+    sprite: {fileID: 2274226506919886036, guid: 94c726c423fe79b45a26a4798cc6b6e9, type: 3}
+  - key: icon_key_special
+    sprite: {fileID: -8830706738641181922, guid: 3728ba64629c9244289ce9601587f05d, type: 3}
+  - key: portrait_key_special
+    sprite: {fileID: 4359160002685234442, guid: 2ede66ea99c640d4ca270ab446c6cb44, type: 3}
+  - key: portrait_npc_stage8
+    sprite: {fileID: 3208310023674105131, guid: f36ef21dfe5340840b13749874d40a1c, type: 3}
+  - key: portrait_v_joy
+    sprite: {fileID: 1009316550051254369, guid: ca1f68ce0f816f144a02cb07156b6bd6, type: 3}
+  - key: s8_black
+    sprite: {fileID: 7967187480852993129, guid: cb1231e21c3af0b4aaee3bd3c06208ac, type: 3}
+  - key: s8_blue
+    sprite: {fileID: 3282767978724566749, guid: 58f325a0c5be4894d89d2ead01dd20fd, type: 3}
+  - key: s8_inverse1
+    sprite: {fileID: 5127221553515254286, guid: 485b200def1f4674299a810c7c99a700, type: 3}
+  - key: s8_inverse2
+    sprite: {fileID: -2617734787444166553, guid: 484c4afd3e4130349b66f0b97390cdf3, type: 3}
+  - key: s8_orange
+    sprite: {fileID: -1802716550375571818, guid: 454737f175eb4654880df9133c3d98b9, type: 3}
+  - key: s8_pill
+    sprite: {fileID: 3934699246402297685, guid: 3638d025852b202499ec554829055089, type: 3}
+  - key: s8_purple
+    sprite: {fileID: 3315632994723579726, guid: f242a310ebedab74ebfa898f25c6c679, type: 3}
+  - key: s8_red
+    sprite: {fileID: -3775751223772744370, guid: 8f04e1e3f9535d94eb02046f933c9dde, type: 3}
+  - key: s8_white
+    sprite: {fileID: 3184184940483618195, guid: 3aa10250e47fe024a956e2bfd963da65, type: 3}
+  - key: special_silhouette
+    sprite: {fileID: -2742484228411640090, guid: fcd8c9f76616ab0458dc11fa9726a3be, type: 3}
+  - key: s9_family
+    sprite: {fileID: 1226871175704030442, guid: d67c60fd4a4fee54a9e17039c7b469b2, type: 3}
+  - key: s9_head
+    sprite: {fileID: -3874543744754798925, guid: 7b082a409fdf1c6448fe14f5543bc8f9, type: 3}
+  - key: s9_home
+    sprite: {fileID: 3880026971500744567, guid: 1a9904de0457a394ca86add4fd9a13e4, type: 3}

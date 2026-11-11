@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75da3f0d023fcb8458ceb91dc0dc799a, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: Assembly-CSharp::CoComputar.AudioDatabase
+  entries:
+  - key: bgm_prologue
+    clip: {fileID: 8300000, guid: ace4c655e9fed414a836c5c3c8df9a66, type: 3}
+  - key: bgm_stage01
+    clip: {fileID: 8300000, guid: 042ee0394dee98741a48ce82bd30be10, type: 3}
+  - key: bgm_title
+    clip: {fileID: 8300000, guid: 848ddd4b16e039f4aa1903e20efdf5ba, type: 3}
+  - key: sfx_boot
+    clip: {fileID: 8300000, guid: cbabf80bf0f9c504caa15429798be34d, type: 3}
+  - key: sfx_click
+    clip: {fileID: 8300000, guid: eb783770bc888494b9cecaf5f5c125c4, type: 3}
+  - key: sfx_ding
+    clip: {fileID: 8300000, guid: 1206512bed272d64fa9ff86258b12f8b, type: 3}
+  - key: sfx_door_run
+    clip: {fileID: 8300000, guid: 2e3d8e7451276f94090107872a0bc7a6, type: 3}
+  - key: sfx_heartbeat
+    clip: {fileID: 8300000, guid: 51b3089ea84665b439dd1916dce21bf7, type: 3}
+  - key: sfx_icon_press
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_mail_close
+    clip: {fileID: 8300000, guid: 56f8d0df5c840b947bd92202d850702e, type: 3}
+  - key: sfx_text_tick
+    clip: {fileID: 8300000, guid: 21dbe9452d28a4148b1c51a334652044, type: 3}
+  - key: sfx_window_close
+    clip: {fileID: 8300000, guid: 8f450604572d5f441b2a63ccb02df984, type: 3}
+  - key: sfx_window_open
+    clip: {fileID: 8300000, guid: 221c43dbd9e631a438cc0399bf681b28, type: 3}
+  - key: bgm_stage02
+    clip: {fileID: 8300000, guid: 042ee0394dee98741a48ce82bd30be10, type: 3}
+  - key: sfx_key_get
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_zoom
+    clip: {fileID: 8300000, guid: 1206512bed272d64fa9ff86258b12f8b, type: 3}
+  - key: sfx_rain
+    clip: {fileID: 8300000, guid: 7eb3ac4f10c1a934ca2b8f7dee5f95b1, type: 3}
+  - key: sfx_sprout_grow
+    clip: {fileID: 8300000, guid: 1206512bed272d64fa9ff86258b12f8b, type: 3}
+  - key: sfx_bloom
+    clip: {fileID: 8300000, guid: 1206512bed272d64fa9ff86258b12f8b, type: 3}
+  - key: sfx_sepia_on
+    clip: {fileID: 8300000, guid: 53ebee209cc57f248a197b2baeefca34, type: 3}
+  - key: sfx_glitch
+    clip: {fileID: 8300000, guid: 1206512bed272d64fa9ff86258b12f8b, type: 3}
+  - key: sfx_file_merge
+    clip: {fileID: 8300000, guid: 1206512bed272d64fa9ff86258b12f8b, type: 3}
+  - key: sfx_drag_return
+    clip: {fileID: 8300000, guid: 1206512bed272d64fa9ff86258b12f8b, type: 3}
+  - key: sfx_water_fail
+    clip: {fileID: 8300000, guid: 72863319409701046aa676c2660e040f, type: 3}
+  - key: bgm_stage03
+    clip: {fileID: 8300000, guid: d2c39b4132d265542bc62bc444b71d6d, type: 3}
+  - key: bgm_murmur
+    clip: {fileID: 8300000, guid: beb527f5732d999418136a4e2d04f4b3, type: 3}
+  - key: sfx_denied
+    clip: {fileID: 8300000, guid: bfe1c3126cef09d46ae89158cb9b4433, type: 3}
+  - key: sfx_filter_switch
+    clip: {fileID: 8300000, guid: 864226d18af173f48bf53ce882238abf, type: 3}
+  - key: sfx_footprint
+    clip: {fileID: 8300000, guid: e64a79ffcf349644995b21f02a66b697, type: 3}
+  - key: sfx_install_tick
+    clip: {fileID: 8300000, guid: dcbcb1e094591064da9cddaf6a27bddd, type: 3}
+  - key: sfx_pw_wrong
+    clip: {fileID: 8300000, guid: 6d73f5464a061134198ebe65e2b72642, type: 3}
+  - key: sfx_unlock
+    clip: {fileID: 8300000, guid: a013954347013d04db38773ce2f443e2, type: 3}
+  - key: sfx_time_warp
+    clip: {fileID: 8300000, guid: f2157695d7eec024b9aad8e94755123d, type: 3}
+  - key: sfx_npc_pop
+    clip: {fileID: 8300000, guid: 6809c0a1689271a4484a1a9ce716fa61, type: 3}
+  - key: bgm_stage04
+    clip: {fileID: 8300000, guid: 46a94d1360d7efd4ca30ecfdf334c769, type: 3}
+  - key: sfx_error
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_file_broken
+    clip: {fileID: 8300000, guid: 64680ba36492ee449acfed160b20d0a9, type: 3}
+  - key: sfx_menu_open
+    clip: {fileID: 8300000, guid: 67cff9e25f00cfb4e9d33b85321c2f3e, type: 3}
+  - key: sfx_rename
+    clip: {fileID: 8300000, guid: 8bf0c17d0556ed2468d90b2ceccb5590, type: 3}
+  - key: sfx_restore
+    clip: {fileID: 8300000, guid: 0f66231dfd3a61a47a72f53c16521764, type: 3}
+  - key: sfx_save_ok
+    clip: {fileID: 8300000, guid: 81061e73f4fb15843987e6c3db355ee2, type: 3}
+  - key: sfx_startle
+    clip: {fileID: 8300000, guid: 5524b97c303cdcd43867adbe7a4c7926, type: 3}
+  - key: sfx_trash
+    clip: {fileID: 8300000, guid: 670e1859ad401974883d002a9b802383, type: 3}
+  - key: sfx_unzip
+    clip: {fileID: 8300000, guid: 0bf09df1e09494448b08e88af53dbc2b, type: 3}
+  - key: bgm_stage05
+    clip: {fileID: 8300000, guid: fd1d5164b5b0d454ca23b3b107960d49, type: 3}
+  - key: sfx_icon_merge
+    clip: {fileID: 8300000, guid: 47847b9a69df35b4e9008fee44c1f23b, type: 3}
+  - key: sfx_number_lock
+    clip: {fileID: 8300000, guid: 6cd059d660663e84bbd01b77f8303592, type: 3}
+  - key: sfx_photo_adjust_tick
+    clip: {fileID: 8300000, guid: a7935171b22ee8c479cad8bac52a5e6d, type: 3}
+  - key: sfx_photo_success
+    clip: {fileID: 8300000, guid: 6c6c82efd96f6a14d85e082abe81d3ac, type: 3}
+  - key: sfx_playlist_drop
+    clip: {fileID: 8300000, guid: 015fcd553cec8914da7b93f6e5ee28df, type: 3}
+  - key: sfx_playlist_move
+    clip: {fileID: 8300000, guid: b47f0dcc5b2d65d4ab7794ecfe0a366b, type: 3}
+  - key: sfx_playlist_success
+    clip: {fileID: 8300000, guid: 7c4871af215bb5d47b339a4c4ce29d33, type: 3}
+  - key: sfx_radio_lock
+    clip: {fileID: 8300000, guid: 885970baf940d03428cbc6ef6ea8099e, type: 3}
+  - key: sfx_radio_music
+    clip: {fileID: 8300000, guid: fb66049fb4c570e42bec1f5f21c74a44, type: 3}
+  - key: sfx_radio_noise
+    clip: {fileID: 8300000, guid: a9de8bdf3e5a4784e847867f96a2d35b, type: 3}
+  - key: sfx_s5_restore
+    clip: {fileID: 8300000, guid: 78f17fd62d67a6f479b1d5302f647646, type: 3}
+  - key: sfx_s5_trash
+    clip: {fileID: 8300000, guid: 4aa532c14b90b8e47b9438dbd3daa5ac, type: 3}
+  - key: bgm_stage06
+    clip: {fileID: 8300000, guid: fd1d5164b5b0d454ca23b3b107960d49, type: 3}
+  - key: sfx_card_flip
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_card_match
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_card_mismatch
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_card_clear
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_highscore_enter
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_rope_jump
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_rope_miss
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_game_over
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_lcd_tick
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_glitch_static
+    clip: {fileID: 8300000, guid: 1206512bed272d64fa9ff86258b12f8b, type: 3}
+  - key: sfx_snake_eat
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_snake_die
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_spit
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_resize_tick
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_sticker_get
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_sticker_stick
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_file_morph
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_popup_spawn
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_popup_error
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_bgm_cut
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: bgm_stage07
+    clip: {fileID: 8300000, guid: fd1d5164b5b0d454ca23b3b107960d49, type: 3}
+  - key: sfx_wizard_next
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_wizard_cancel
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_wizard_error
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_install_done
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_serial_wrong
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_viewer_rotate
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_map_pin
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_map_move
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_bush_cut
+    clip: {fileID: 8300000, guid: 3f1763de56eb420439f3bdd4d405af25, type: 3}
+  - key: sfx_item_get
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_rock_drag
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_doll_pop
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_lock_open
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_door_locked
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: bgm_stage08
+    clip: {fileID: 8300000, guid: fd1d5164b5b0d454ca23b3b107960d49, type: 3}
+  - key: sfx_new_mail
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_mail_new
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_browser_click
+    clip: {fileID: 8300000, guid: eb783770bc888494b9cecaf5f5c125c4, type: 3}
+  - key: sfx_browser_nav
+    clip: {fileID: 8300000, guid: eb783770bc888494b9cecaf5f5c125c4, type: 3}
+  - key: sfx_status_toast
+    clip: {fileID: 8300000, guid: eb783770bc888494b9cecaf5f5c125c4, type: 3}
+  - key: sfx_download
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_cart_add
+    clip: {fileID: 8300000, guid: eb783770bc888494b9cecaf5f5c125c4, type: 3}
+  - key: sfx_order_ok
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_mail_send
+    clip: {fileID: 8300000, guid: eb783770bc888494b9cecaf5f5c125c4, type: 3}
+  - key: sfx_autotype_key
+    clip: {fileID: 8300000, guid: eb783770bc888494b9cecaf5f5c125c4, type: 3}
+  - key: sfx_token_buy
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: bgm_special_stage1
+    clip: {fileID: 8300000, guid: 042ee0394dee98741a48ce82bd30be10, type: 3}
+  - key: bgm_special_stage9
+    clip: {fileID: 8300000, guid: beb527f5732d999418136a4e2d04f4b3, type: 3}
+  - key: sfx_lock_denied
+    clip: {fileID: 8300000, guid: bfe1c3126cef09d46ae89158cb9b4433, type: 3}
+  - key: sfx_npc_vanish
+    clip: {fileID: 8300000, guid: 6809c0a1689271a4484a1a9ce716fa61, type: 3}
+  - key: sfx_file_appear
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_login_fail
+    clip: {fileID: 8300000, guid: 6d73f5464a061134198ebe65e2b72642, type: 3}
+  - key: sfx_warp_install
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_fake_error
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_gameover
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_head_split
+    clip: {fileID: 8300000, guid: d27ce3350df8a404bba3edfaceff0af2, type: 3}
+  - key: sfx_key_drop
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_forbidden_folder
+    clip: {fileID: 8300000, guid: 1206512bed272d64fa9ff86258b12f8b, type: 3}
+  - key: sfx_deep_enter
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_install_warn
+    clip: {fileID: 8300000, guid: bfe1c3126cef09d46ae89158cb9b4433, type: 3}
+  - key: bgm_stage09
+    clip: {fileID: 8300000, guid: beb527f5732d999418136a4e2d04f4b3, type: 3}
+  - key: sfx_wrong_key
+    clip: {fileID: 8300000, guid: bfe1c3126cef09d46ae89158cb9b4433, type: 3}
+  - key: sfx_rename_ok
+    clip: {fileID: 8300000, guid: 8bf0c17d0556ed2468d90b2ceccb5590, type: 3}
+  - key: sfx_image_corrupt
+    clip: {fileID: 8300000, guid: 91224f82ce7861b428b7bed09de15969, type: 3}
+  - key: sfx_zoom_reveal
+    clip: {fileID: 8300000, guid: eb783770bc888494b9cecaf5f5c125c4, type: 3}
+  - key: sfx_photo_deliver
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}
+  - key: sfx_key_click
+    clip: {fileID: 8300000, guid: eb783770bc888494b9cecaf5f5c125c4, type: 3}
+  - key: sfx_npc_fade
+    clip: {fileID: 8300000, guid: 6809c0a1689271a4484a1a9ce716fa61, type: 3}
+  - key: sfx_door_open
+    clip: {fileID: 8300000, guid: ae2d42ee96052814c809e60ded29ed84, type: 3}

@@ -1,0 +1,458 @@
+{
+  "sequences": [
+    {
+      "id": "S5_TALK_1",
+      "lines": [
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "저...",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "음... 안녕하세요?",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "왜 말이 없지?",
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "일단 돌아다녀 볼까...",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...거기.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "네?",
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "말을 하잖아?",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...그.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "다시 말이 없다.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S5_TALK_2",
+      "lines": [
+        {
+          "speaker": "스피커",
+          "text": "이봐.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "앗, 네?",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "이리 줘봐.",
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "음... 뭐 하려는 걸까?",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "cmd": "setFlag",
+          "flag": "S5_SPEAKER_FIX"
+        },
+        {
+          "speaker": "스피커",
+          "text": "여기.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아, 감사합니다.",
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "뭔진 모르겠지만 고쳐진 것 같다.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "다시 말이 없다.",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S5_TALK_3",
+      "lines": [
+        {
+          "speaker": "스피커",
+          "text": "근데.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...네?",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "너는.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": ".",
+          "characterSeconds": 0.4,
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S5_BGM_1",
+      "lines": [
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "잠깐.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "소리가.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "꺼졌잖아?",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "지금 뭐 하는 거지?",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "소리를 끄면 어쩌라는 거야.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "그렇게 되어버리면 아주 중요한 것도 못 하고, 너는 잘 모르겠지만 소리가 얼마나 중요한지, 나한테 얼마나 중요한 부분을 차지하는데 그걸 꺼버리면 어쩌라는 거지? 나랑 장난하자는 건가? 지금 생각이라는 게 있는 건가?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "저... 진정하시고...",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "지금 진정하게 생겼어? 다른 것도 아니고 네가 소리를 꺼버렸잖아. 화면이 꺼진 것도 아니고 무려 소리가 꺼진 건데, 감히 내 앞에서 소리를 끈다고? 나랑 싸우자는 건가?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아뇨! 저 다시 켤게요!",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "그래야지.",
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "소리를 켜기 전까지는 말을 걸지 말자...",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S5_BGM_2",
+      "lines": [
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "내가.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...내가 분명.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "소리를.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "다시 켜라고.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "했을 텐데.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "넌 멍청한 건가?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...아! 아뇨! 이제 켜려고요!",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "그래야지.",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S5_FINAL",
+      "lines": [
+        {
+          "speaker": "스피커",
+          "text": "왜 여기에 있지?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "네?",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "여기 있는 이유.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "그게 사실...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "저도 궁금해요.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "정말 모르는 거야?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "아니면.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "모른 척하는 거야?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "무슨 소리인지 모르겠어요.",
+          "emotion": "surprised",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...넌.",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...저기요?",
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        },
+        {
+          "speaker": "스피커",
+          "text": "가봐.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아... 넵...",
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "뭘까?",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S5_AFTER_FINAL",
+      "lines": [
+        {
+          "speaker": "스피커",
+          "text": "...",
+          "characterSeconds": 0.4,
+          "paginate": true
+        }
+      ]
+    }
+  ]
+}

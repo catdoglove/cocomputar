@@ -1,0 +1,265 @@
+{
+  "bgm": "bgm_stage07",
+  "installSeconds": 7,
+  "failPercent": 75,
+  "rotationMax": 5,
+  "visibleDistance": 1,
+  "requireInternet": true,
+  "doorEventTrigger": "unlock",
+  "programs": [
+    {
+      "id": "viewer",
+      "name": "3D 뷰어98",
+      "installer": "3D 뷰어 설치 마법사",
+      "serialColor": "#ED8433",
+      "serial": false,
+      "files": [
+        "viewer.dll",
+        "shape.dat",
+        "3D뷰어98.exe"
+      ]
+    },
+    {
+      "id": "map",
+      "name": "map.exe",
+      "installer": "지도 설치 마법사",
+      "serialColor": "#184DDE",
+      "serial": true,
+      "files": [
+        "ground.dat",
+        "water.dat",
+        "trees.dat",
+        "map.exe"
+      ]
+    },
+    {
+      "id": "internet",
+      "name": "인터넷",
+      "installer": "인터넷 설치 마법사",
+      "serialColor": "#168A35",
+      "serial": true,
+      "files": [
+        "network.dll",
+        "browser.dat",
+        "인터넷.exe"
+      ]
+    }
+  ],
+  "components": [
+    {
+      "id": "ground",
+      "label": "지면 프로그램",
+      "description": "땅과 길을 그립니다.",
+      "required": true
+    },
+    {
+      "id": "candy",
+      "label": "사탕 프로그램",
+      "description": "달콤한 간식을 보관합니다.",
+      "required": false
+    },
+    {
+      "id": "water",
+      "label": "저수 프로그램",
+      "description": "물이 고인 곳을 그립니다.",
+      "required": true
+    },
+    {
+      "id": "bed",
+      "label": "침대 프로그램",
+      "description": "잠자리를 정리합니다.",
+      "required": false
+    },
+    {
+      "id": "plants",
+      "label": "초목 프로그램",
+      "description": "풀과 나무를 그립니다.",
+      "required": true
+    }
+  ],
+  "keyPrograms": [
+    "radio.exe",
+    "photo_editor.exe",
+    "슈퍼_카드.exe",
+    "슈퍼_줄넘기.exe",
+    "map.exe",
+    "인터넷"
+  ],
+  "pins": [
+    {
+      "label": "공원 근처",
+      "start": "1a",
+      "x": 0.63,
+      "y": 0.54
+    },
+    {
+      "label": "학교 근처",
+      "start": "2b",
+      "x": 0.8,
+      "y": 0.35
+    },
+    {
+      "label": "돌산 근처",
+      "start": "3c",
+      "x": 0.79,
+      "y": 0.64
+    },
+    {
+      "label": "집 근처",
+      "start": "4b",
+      "x": 0.39,
+      "y": 0.73
+    },
+    {
+      "label": "절벽 근처",
+      "start": "5",
+      "x": 0.29,
+      "y": 0.29
+    }
+  ],
+  "regions": [
+    {
+      "id": "1a",
+      "name": "공원 입구",
+      "objectType": "",
+      "exits": [
+        {
+          "label": "오른쪽",
+          "target": "1b"
+        },
+        {
+          "label": "아래",
+          "target": "1c"
+        }
+      ]
+    },
+    {
+      "id": "1b",
+      "name": "공원 수풀",
+      "objectType": "keyBush",
+      "exits": [
+        {
+          "label": "왼쪽",
+          "target": "1a"
+        }
+      ]
+    },
+    {
+      "id": "1c",
+      "name": "공원 산책길",
+      "objectType": "bush",
+      "exits": [
+        {
+          "label": "위",
+          "target": "1a"
+        }
+      ]
+    },
+    {
+      "id": "2b",
+      "name": "학교 연못 동쪽",
+      "objectType": "pond",
+      "exits": [
+        {
+          "label": "왼쪽",
+          "target": "2a"
+        }
+      ]
+    },
+    {
+      "id": "2a",
+      "name": "학교 연못 서쪽",
+      "objectType": "pond",
+      "exits": [
+        {
+          "label": "오른쪽",
+          "target": "2b"
+        }
+      ]
+    },
+    {
+      "id": "3c",
+      "name": "돌산 갈림길",
+      "objectType": "",
+      "exits": [
+        {
+          "label": "위",
+          "target": "3t"
+        },
+        {
+          "label": "왼쪽",
+          "target": "3l"
+        },
+        {
+          "label": "오른쪽",
+          "target": "3r"
+        }
+      ]
+    },
+    {
+      "id": "3t",
+      "name": "돌산 구멍",
+      "objectType": "rock",
+      "exits": [
+        {
+          "label": "아래",
+          "target": "3c"
+        }
+      ]
+    },
+    {
+      "id": "3l",
+      "name": "돌산 수풀",
+      "objectType": "dollBush",
+      "exits": [
+        {
+          "label": "오른쪽",
+          "target": "3c"
+        }
+      ]
+    },
+    {
+      "id": "3r",
+      "name": "돌산 숲",
+      "objectType": "bush",
+      "exits": [
+        {
+          "label": "왼쪽",
+          "target": "3c"
+        }
+      ]
+    },
+    {
+      "id": "4b",
+      "name": "집 앞",
+      "objectType": "",
+      "exits": [
+        {
+          "label": "위",
+          "target": "4t"
+        }
+      ]
+    },
+    {
+      "id": "4t",
+      "name": "집 뒤 정원",
+      "objectType": "shears",
+      "exits": [
+        {
+          "label": "아래",
+          "target": "4b"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "절벽 출구",
+      "objectType": "door",
+      "exits": []
+    }
+  ],
+  "rockMovedEvent": "RockMoved",
+  "mapImage": "s7_map",
+  "browserAddress": "about:blank",
+  "secretBrowserPages": []
+}

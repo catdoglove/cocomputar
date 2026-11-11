@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3099adeef11d980439d4071c7253a949, type: 3}
+  m_Name: Stage10
+  m_EditorClassIdentifier: Assembly-CSharp::CoComputar.StageDefinition
+  stageId: Stage10
+  nextStageId: 
+  title: "STAGE 10 / \uBCF5\uAD6C \uB300\uAE30"
+  clearCondition: door.exe
+  entryPrefab: {fileID: 0}
+  dialogue: {fileID: 0}
+  files: {fileID: 0}
+  folderTree: {fileID: 0}
+  letters: {fileID: 0}
+  hasPrologue: 0
+  preserveWindowsDuringDialogue: 0
+  desktopTheme: {fileID: 0}

@@ -1,0 +1,384 @@
+{
+  "autoTypeText": "말씀하신 대로 파일을 보냅니다. 부디 잘 부탁드려요. 제발",
+  "replyAddress": "door@ourmail.example",
+  "replySeconds": 5,
+  "statusSeconds": 2,
+  "startTokens": 1898,
+  "budget": 5000,
+  "maxQuantity": 3,
+  "eyeCount": 48,
+  "eyeSeconds": 2.6,
+  "notFoundChance": 0.1,
+  "glitchDelay": 10,
+  "globeEraseSeconds": 1.5,
+  "soundCap": 0.55,
+  "texts": [
+    {
+      "id": "noBrowser",
+      "text": "이 페이지를 연결할 브라우저가 존재하지 않습니다."
+    },
+    {
+      "id": "download",
+      "text": "다운받으시겠습니까?"
+    },
+    {
+      "id": "duplicate",
+      "text": "이미 받은 파일입니다."
+    },
+    {
+      "id": "cartAdded",
+      "text": "장바구니에 담았습니다."
+    },
+    {
+      "id": "martDenied",
+      "text": "죄송합니다. 현재 구매가 불가능합니다."
+    },
+    {
+      "id": "under",
+      "text": "최소 주문 금액은 5000원 입니다."
+    },
+    {
+      "id": "over",
+      "text": "소지하고 있는 금액을 초과하였습니다."
+    },
+    {
+      "id": "orderOK",
+      "text": "감사합니다. 주문에 성공하였습니다. 이벤트 페이지에서 확인해주세요!"
+    },
+    {
+      "id": "orderDone",
+      "text": "이미 주문이 완료되었습니다."
+    },
+    {
+      "id": "orderWait",
+      "text": "아직 주문이 완료되지 않았습니다."
+    },
+    {
+      "id": "zip",
+      "text": "마우스를 사용해 압축된 파일을 먼저 해제하시오."
+    },
+    {
+      "id": "badAddress",
+      "text": "받는 사람 주소가 올바르지 않습니다."
+    },
+    {
+      "id": "emptyBody",
+      "text": "내용을 입력해 주세요."
+    },
+    {
+      "id": "sent",
+      "text": "메일을 보냈습니다."
+    },
+    {
+      "id": "wrongFiles",
+      "text": "잘못된 파일입니다. 원하는 것을 얻기 위해서 다시 회신 바랍니다."
+    },
+    {
+      "id": "replyOK",
+      "text": "보내 준 파일을 잘 받았어. 약속한 문을 보낼게. 밖에서 만나자."
+    },
+    {
+      "id": "tokens",
+      "text": "토큰이 모자랍니다."
+    },
+    {
+      "id": "ribbon",
+      "text": "이미 구매하신 상품입니다. 인당 하나만 가질 수 있습니다."
+    },
+    {
+      "id": "eyeBread",
+      "text": "이 눈알은 전시용 상품으로 구매를 원하시는 경우 아래 하단을 확인해주세요"
+    },
+    {
+      "id": "hospital",
+      "text": "최근 병원 붕대와 주사약이 일부 누락되어 병원 업무에 차질이 생긴 점 양해 바랍니다."
+    },
+    {
+      "id": "notfound",
+      "text": "이 페이지를 찾을 수 없습니다."
+    },
+    {
+      "id": "notfoundBody",
+      "text": "이 페이지는 볼 수 없습니다. 주소가 바뀌었거나 잠시 연결할 수 없습니다."
+    },
+    {
+      "id": "notfoundChanged",
+      "text": "이 페이지는 너가 없앴어."
+    },
+    {
+      "id": "confirmBuy",
+      "text": "구매하시겠습니까?"
+    },
+    {
+      "id": "received",
+      "text": "파일이 바탕화면에 저장되었습니다."
+    },
+    {
+      "id": "newMail",
+      "text": "새 메일이 도착했습니다."
+    },
+    {
+      "id": "replyTitle",
+      "text": "Re: 문이 필요하다면"
+    },
+    {
+      "id": "homeTitle",
+      "text": "미니홈피"
+    },
+    {
+      "id": "downloadButton",
+      "text": "다운로드"
+    },
+    {
+      "id": "cancel",
+      "text": "취소"
+    },
+    {
+      "id": "mail",
+      "text": "Ourmail"
+    },
+    {
+      "id": "send",
+      "text": "보내기"
+    },
+    {
+      "id": "attach",
+      "text": "첨부"
+    },
+    {
+      "id": "recipient",
+      "text": "받는 사람"
+    },
+    {
+      "id": "subject",
+      "text": "제목"
+    },
+    {
+      "id": "clearCart",
+      "text": "장바구니 비우기"
+    },
+    {
+      "id": "order",
+      "text": "주문하기"
+    },
+    {
+      "id": "buy",
+      "text": "구매하기"
+    },
+    {
+      "id": "sold",
+      "text": "구매 완료"
+    },
+    {
+      "id": "maxQuantity",
+      "text": "상품당 최대 3개까지 담을 수 있습니다."
+    },
+    {
+      "id": "empty",
+      "text": "이곳은 비어 있습니다."
+    },
+    {
+      "id": "favorites",
+      "text": "마트 사이트|일기장 사이트|파운드케이크 레시피 사이트"
+    },
+    {
+      "id": "mailFolders",
+      "text": "받은 메일함|보낸 메일함|스팸 메일함|휴지통"
+    },
+    {
+      "id": "lostTitle",
+      "text": "1989"
+    },
+    {
+      "id": "globe",
+      "text": "잃어버린 지구본"
+    },
+    {
+      "id": "dollAd",
+      "text": "DOLL CABINET · 잃어버린 모습을 찾아 드립니다."
+    },
+    {
+      "id": "newsAd",
+      "text": "Memory Press · 지난 소식 보기"
+    },
+    {
+      "id": "missingAd",
+      "text": "아직 돌아오지 않은 사람들"
+    },
+    {
+      "id": "hospitalAd",
+      "text": "고요한 마음 상담원"
+    },
+    {
+      "id": "missingBody",
+      "text": "마지막으로 본 곳을 기억하시나요? 소식이 닿으면 알려 주세요."
+    },
+    {
+      "id": "dollIntro",
+      "text": "한 사람의 기억을 닮은 오래된 인형들. Buy에서 진열장을 둘러보세요."
+    },
+    {
+      "id": "warning",
+      "text": "경고"
+    },
+    {
+      "id": "confirm",
+      "text": "확인"
+    },
+    {
+      "id": "browserTitle",
+      "text": "가상 인터넷"
+    },
+    {
+      "id": "favoritesTitle",
+      "text": "즐겨찾기"
+    },
+    {
+      "id": "ready",
+      "text": "완료"
+    },
+    {
+      "id": "homeBanner",
+      "text": "★ 파운드케이크 레시피"
+    },
+    {
+      "id": "diaryBanner",
+      "text": "♧ 식물 키우기"
+    },
+    {
+      "id": "mailBanner",
+      "text": "분실물 보관소"
+    },
+    {
+      "id": "weatherBanner",
+      "text": "오늘의 날씨 확인"
+    },
+    {
+      "id": "allProducts",
+      "text": "전체 상품"
+    },
+    {
+      "id": "details",
+      "text": "자세히 보기"
+    },
+    {
+      "id": "addCart",
+      "text": "장바구니 담기"
+    },
+    {
+      "id": "cart",
+      "text": "장바구니"
+    },
+    {
+      "id": "total",
+      "text": "합계"
+    },
+    {
+      "id": "colorful",
+      "text": "알록달록"
+    },
+    {
+      "id": "mailSelf",
+      "text": "me@ourmail.example"
+    },
+    {
+      "id": "writeMail",
+      "text": "새 메일"
+    },
+    {
+      "id": "reply",
+      "text": "답장"
+    },
+    {
+      "id": "desktop",
+      "text": "바탕화면"
+    },
+    {
+      "id": "removeAttachment",
+      "text": "첨부 해제"
+    },
+    {
+      "id": "notice",
+      "text": "공지"
+    },
+    {
+      "id": "close",
+      "text": "닫기"
+    },
+    {
+      "id": "savedDesktop",
+      "text": "파일이 바탕화면에 저장되었습니다."
+    },
+    {
+      "id": "budget",
+      "text": "예산"
+    },
+    {
+      "id": "soldOut",
+      "text": "품절"
+    },
+    {
+      "id": "tax",
+      "text": "세금"
+    },
+    {
+      "id": "extract",
+      "text": "압축해제"
+    },
+    {
+      "id": "rename",
+      "text": "이름 바꾸기"
+    },
+    {
+      "id": "delete",
+      "text": "삭제"
+    },
+    {
+      "id": "restore",
+      "text": "복원"
+    },
+    {
+      "id": "readArticle",
+      "text": "▶ 기사보기"
+    },
+    {
+      "id": "articleList",
+      "text": "◀ 기사 목록"
+    },
+    {
+      "id": "sender",
+      "text": "보낸 사람"
+    },
+    {
+      "id": "mailDate",
+      "text": "날짜"
+    }
+  ],
+  "news": [
+    {
+      "id": "normal0",
+      "title": "작은 도서관 야간 개방",
+      "body": "가상의 누리골 도서관이 저녁 열람 시간을 늘린다. 주민들은 조용한 공간이 늘어난 것을 반겼다."
+    },
+    {
+      "id": "normal1",
+      "title": "동네 장터 문 열어",
+      "body": "솔빈 마을의 주말 장터가 문을 열었다. 오래된 책과 손으로 만든 물건들이 진열됐다."
+    },
+    {
+      "id": "normal2",
+      "title": "새 우편함 설치",
+      "body": "가상의 은문 구역에 새 우편함이 놓였다. 담당자는 주소를 정확히 적어 달라고 안내했다."
+    },
+    {
+      "id": "1989",
+      "title": "주택 화재로 한 명 사망",
+      "body": "1989년 6월 6일, 가상의 안개뜰 마을 주택에서 화재가 발생해 한 명이 사망했다. 관계 기관은 화재 원인을 확인 중이며, 당시 거주 기록과 신고 시각을 대조하고 있다고 밝혔다."
+    },
+    {
+      "id": "1990",
+      "title": "입양 절차의 선택 폭 넓어진다",
+      "body": "1990년 2월 12일, 가상의 달여울 자치구는 입양 절차에 관한 새 방침을 발표했다. 상담과 검토 절차를 정비해 신청자의 선택 폭을 넓힌다는 설명이다. 관계자는 아동의 생활 여건을 살피는 과정은 유지된다고 밝혔다."
+    }
+  ]
+}

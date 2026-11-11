@@ -1,0 +1,154 @@
+{
+  "characters": [
+    {
+      "id": "girl",
+      "side": "right",
+      "defaultExpression": "normal",
+      "speakerAliases": [
+        "V양",
+        "독백"
+      ],
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_v"
+        },
+        {
+          "id": "neutral",
+          "spriteKey": "portrait_v"
+        }
+      ]
+    },
+    {
+      "id": "folder",
+      "side": "left",
+      "defaultExpression": "normal",
+      "speakerAliases": [
+        "폴더",
+        "폴더군"
+      ],
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_folder"
+        },
+        {
+          "id": "neutral",
+          "spriteKey": "portrait_folder"
+        }
+      ]
+    },
+    {
+      "id": "twin_black",
+      "side": "left",
+      "speakerAliases": [
+        "흑"
+      ],
+      "defaultExpression": "normal",
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_twin_black"
+        }
+      ]
+    },
+    {
+      "id": "twin_white",
+      "side": "left",
+      "speakerAliases": [
+        "백"
+      ],
+      "defaultExpression": "normal",
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_twin_white"
+        }
+      ]
+    },
+    {
+      "id": "geurim",
+      "side": "left",
+      "defaultExpression": "normal",
+      "speakerAliases": [
+        "그림"
+      ],
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_geurim"
+        }
+      ]
+    },
+    {
+      "id": "geurim_young",
+      "side": "left",
+      "defaultExpression": "normal",
+      "speakerAliases": [
+        "어린그림"
+      ],
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_geurim_young"
+        }
+      ]
+    },
+    {
+      "id": "memo",
+      "side": "left",
+      "defaultExpression": "normal",
+      "speakerAliases": [
+        "메모"
+      ],
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_memo"
+        }
+      ]
+    },
+    {
+      "id": "speaker",
+      "side": "left",
+      "defaultExpression": "normal",
+      "speakerAliases": [
+        "스피커"
+      ],
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_speaker"
+        }
+      ]
+    },
+    {
+      "id": "joystick",
+      "side": "left",
+      "defaultExpression": "normal",
+      "speakerAliases": [
+        "조이스틱"
+      ],
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_joystick"
+        }
+      ]
+    },
+    {
+      "id": "floppy",
+      "side": "left",
+      "defaultExpression": "normal",
+      "speakerAliases": [
+        "플로피디스크"
+      ],
+      "expressions": [
+        {
+          "id": "normal",
+          "spriteKey": "portrait_floppy"
+        }
+      ]
+    }
+  ]
+}

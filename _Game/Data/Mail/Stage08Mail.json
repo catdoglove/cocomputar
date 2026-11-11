@@ -1,0 +1,134 @@
+{
+  "messages": [
+    {
+      "id": "hello",
+      "folder": "inbox",
+      "sender": "oldfriend@ourmail.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "잘 지내고 있니?",
+      "date": "1999.08.17",
+      "body": "요즘 어떻게 지내니? 날이 좋아서 네 생각이 났어. 다음에는 같이 산책하자.",
+      "attachment": ""
+    },
+    {
+      "id": "clinic",
+      "folder": "inbox",
+      "sender": "care@quiet.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "상담 일정 확인",
+      "date": "1999.08.17",
+      "body": "안녕하세요. 다음 상담 전 복용 기록을 확인해 주세요. 기억나지 않는 부분은 빈칸으로 두셔도 괜찮습니다. 같은 이름으로 두 번 접수하지 않도록 부탁드립니다.",
+      "attachment": ""
+    },
+    {
+      "id": "friend",
+      "folder": "inbox",
+      "sender": "remember@ourmail.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "나를 기억해 줘",
+      "date": "1999.08.17",
+      "body": "오래 기다렸어. 네가 잊어도 나는 기억할게. 우리가 만났던 문 앞에서 다시 만나자.",
+      "attachment": ""
+    },
+    {
+      "id": "request",
+      "folder": "inbox",
+      "sender": "door@ourmail.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "문이 필요하다면",
+      "date": "1999.08.17",
+      "body": "door.exe를 받고 싶다면 회신해 줘! 필요한 건 세 가지야. 단단한 판자, 가장 어두운 색, 손으로 쥐는 쇠붙이. 그걸 첨부해서 보내 주면 문을 줄게. 받는 사람 주소를 잘 확인해 줘.",
+      "attachment": ""
+    },
+    {
+      "id": "sent1",
+      "folder": "sent",
+      "sender": "visitor@ourmail.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "오랜만이야",
+      "date": "1999.08.17",
+      "body": "나는 잘 지내. 이곳은 생각보다 조용해. 네 답장을 기다릴게.",
+      "attachment": ""
+    },
+    {
+      "id": "sent2",
+      "folder": "sent",
+      "sender": "visitor@ourmail.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "그날의 일",
+      "date": "1999.08.17",
+      "body": "그때는 왜 그랬는지 모르겠어. 이제 와서 미안하다고 해도 괜찮을까. 네가 읽을 수 있다면 좋겠다.",
+      "attachment": ""
+    },
+    {
+      "id": "spam0",
+      "folder": "spam",
+      "sender": "offer0@paper-shop.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "한숨 대출!",
+      "date": "1999.08.17",
+      "body": "한숨을 맡기면 웃음을 빌려 드립니다. 상환은 다음 꿈에서 가능합니다.",
+      "attachment": ""
+    },
+    {
+      "id": "spam1",
+      "folder": "spam",
+      "sender": "offer1@paper-shop.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "종이 쿠폰 증정",
+      "date": "1999.08.17",
+      "body": "종이 한 장을 사면 빈 종이가 한 장 더! 오늘만 두 배로 하얗습니다.",
+      "attachment": ""
+    },
+    {
+      "id": "spam2",
+      "folder": "spam",
+      "sender": "offer2@paper-shop.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "구름 영양식",
+      "date": "1999.08.17",
+      "body": "구름처럼 가벼운 아침을 만나세요. 바람 부는 날에는 뚜껑을 닫아 주세요.",
+      "attachment": ""
+    },
+    {
+      "id": "spam3",
+      "folder": "spam",
+      "sender": "offer3@paper-shop.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "행운의 번호",
+      "date": "1999.08.17",
+      "body": "축하합니다. 당신의 번호는 아직 정해지지 않았습니다. 내일 다시 기다려 주세요.",
+      "attachment": ""
+    },
+    {
+      "id": "spam4",
+      "folder": "spam",
+      "sender": "offer4@paper-shop.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "베개 대축제",
+      "date": "1999.08.17",
+      "body": "잠들기 전 걱정을 맡겨 주세요. 베개는 별도이며 꿈은 교환되지 않습니다.",
+      "attachment": ""
+    },
+    {
+      "id": "trash1",
+      "folder": "trash",
+      "sender": "□□@ourmail.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "□돌아■",
+      "date": "1999.08.17",
+      "body": "문□ 앞에 ■■ 기다□. 이름은 □□□. 기억■ 지우지 □.",
+      "attachment": ""
+    },
+    {
+      "id": "trash2",
+      "folder": "trash",
+      "sender": "unknown@ourmail.example",
+      "recipient": "visitor@ourmail.example",
+      "subject": "Re: ■■■",
+      "date": "1999.08.17",
+      "body": "그날 □□ 불빛 ■. 집으로 □□. 아무도 ■■■ 아니야.",
+      "attachment": ""
+    }
+  ]
+}

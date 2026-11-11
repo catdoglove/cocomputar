@@ -1,0 +1,161 @@
+{
+  "files": [
+    {
+      "id": "to_document",
+      "displayName": "to_document.txt",
+      "contentType": "text",
+      "iconKey": "document",
+      "parentFolder": "desktop",
+      "x": 60,
+      "y": 250,
+      "available": true,
+      "handlers": [
+        {
+          "extension": "txt",
+          "action": "notepad",
+          "baseName": ""
+        }
+      ],
+      "encoding": "ANSI",
+      "content": "이번이 몇번째인지..\n이제 까먹지 말고 잘 기억해놔.\n매번 묻지말고.\n알잖아?\n우리는 항상 자리를 지켜야 한다는거.\n이해해줘.\n\n*경고*\n본 테스트용 아카이브는 최종 패치 전까지 {PASSWORD}으로 유지함.\n내부 단서 데이터가 손상되지 않도록 주의할 것.",
+      "garbledContent": "ì ´ë²^ì ´ ëª‡ë²^ì§¸ì ¸ì§€..\nì ´ì œ ê¹Œë¨¹ì§€ ë§ ê³  ìë~ ê¸°ì–µí•´ë†”.\në§¤ë²^ ë¬»ì§€ë§ ê³ .\nì•Œìë–ì•„?\nìì°ë¦¬ë¶” í•­ìƒ ìëë¦¬ë¥¼ ì§€ì¼œì•¼ í•œë‹¤ë¶”ê±°.\nì ´í•´í•´ì¤~.\n\n*ê²½ê³ *\në³¸ í…Œì¶¤í¶¸ìì© ì•„ì¹´ì ´ë¸Œë ” ìµœì¢… íŒ¨ì¹~ ì „ê¹Œì§€ ¤¥§¶ìœ¼ë¡œ ìœ ì§€í•¨.\në‚´ë¶€ ë‹¨ì„œ ë° ì ´í„°ê°€ ì† ìƒë ~ì§€ ì•¶ë „ë¡  ì£¼ì ~í• ê²ƒ."
+    },
+    {
+      "id": "zip",
+      "displayName": "important.zip",
+      "contentType": "archive",
+      "iconKey": "s4_zip",
+      "parentFolder": "desktop",
+      "x": 60,
+      "y": 370,
+      "available": true,
+      "handlers": [
+        {
+          "extension": "zip",
+          "action": "zip",
+          "baseName": ""
+        }
+      ]
+    },
+    {
+      "id": "important",
+      "displayName": "important",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "parentFolder": "desktop",
+      "x": 190,
+      "y": 130,
+      "available": false,
+      "handlers": []
+    },
+    {
+      "id": "home",
+      "displayName": "집.JPG",
+      "contentType": "text",
+      "iconKey": "picture",
+      "parentFolder": "important",
+      "x": 60,
+      "y": 130,
+      "available": true,
+      "handlers": [
+        {
+          "extension": "txt",
+          "action": "notepad",
+          "baseName": ""
+        }
+      ],
+      "renamable": true,
+      "allowedExt": [
+        "jpg",
+        "png",
+        "gif",
+        "bmp",
+        "txt",
+        "exe"
+      ],
+      "content": "[ | # / ] + ; . . . . . .\n; - > + ~ , / | ? @ % \\\n% & ~ %#~|@? - % . \" %\n_ = % _ - > : - > . $ ~ /\n? ! _ ? m ? ! : / / | \\ . ;\n; @|%~#! = . | & # -\n@ ; . ! % % : \\ ; @ . ^\n$ [ # # ! |#?~%@ ` &\n[ | # / ] + ; . . . . . .\n; - > + ~ , / | ? @ % \\\n% & ~ %#~|@? - % . \" %\n_ = % _ - > : - > . $ ~ /\n? ! _ ? & ? ! : / / | \\ . ;\n; @|%~#! = . | & # -\n@ ; . ! % % : \\ ; @ . ^\n$ [ # # ! |#?~%@ ` &\n[ | # / o + ; . . . . . .\n; - > + ~ , / | ? @ % \\\n% & ~ %#~|@? - % . \" %\n_ = % _ - > : - > . $ ~ /\n? ! _ ? & ? ! : / / | \\ . ;\n; @|%~#! = . | & # -\n@ ; . ! % % : \\ ; @ . ^\n$ [ # # ! |#?~%@ ` &\n[ | # / ] + ; . . . . . .\n; - > + ~ , / | ? @ % \\\n% & ~ %#~|@? - % . \" %\n_ = % _ - > : - > . $ ~ /\n? ! _ ? n ? ! : / / | \\ . ;\n; @|%~#! = . | & # -\n@ ; . ! % % : \\ ; @ . ^\n$ [ # # ! |#?~%@ ` &\n[ | # / ] + ; . . . . . .\n; - > + ~ , / | ? @ % \\\n% & ~ %#~|@? - % . \" %\n_ = % _ - > : - > . $ ~ /\n? ! _ ? & ? ! : / / | \\ . ;\n; @|%~#! = . | & # -\n@ ; . ! % % : \\ ; @ . ^\n$ [ # # ! |#?~%@ ` &\n[ | # / e + ; . . . . . .\n; - > + ~ , / | ? @ % \\\n% & ~ %#~|@? - % . \" %\n_ = % _ - > : - > . $ ~ /\n? ! _ ? & ? ! : / / | \\ . ;\n; @|%~#! = . | & # -\n@ ; . ! % % : \\ ; @ . ^\n$ [ # # ! |#?~%@ ` &\n[ | # / ] + ; . . . . . .\n; - > + ~ , / | ? @ % \\\n% & ~ %#~|@? - % . \" %\n_ = % _ - > : - > . $ ~ /\n? ! _ ? & ? ! : / / | \\ . ;\n; @|%~#! = . | & # -\n@ ; . ! y % : \\ ; @ . ^\n$ [ # # ! |#?~%@ ` &\n[ | # / ] + ; . . . . . .\n; - > + ~ , / | ? @ % \\\n% & ~ %#~|@? - % . \" %\n_ = % _ - > : - > . $ ~ /\n? ! _ ? & ? ! : / / | \\ . ;\n; @|%~#! = . | & # -\n@ ; . ! % % : \\ ; @ . ^\n$ [ # # ! |#?~%@ ` &\n[ | # / ] + ; . . . . . ."
+    },
+    {
+      "id": "diary",
+      "displayName": "일기.TXT",
+      "contentType": "image",
+      "iconKey": "document",
+      "parentFolder": "important",
+      "x": 60,
+      "y": 130,
+      "available": true,
+      "handlers": [
+        {
+          "extension": "jpg",
+          "action": "image",
+          "baseName": ""
+        },
+        {
+          "extension": "dir",
+          "action": "diary",
+          "baseName": ""
+        }
+      ],
+      "renamable": true,
+      "allowedExt": [
+        "jpg",
+        "png",
+        "gif",
+        "bmp",
+        "txt",
+        "exe",
+        "dir"
+      ],
+      "imageKey": "s4_diary"
+    },
+    {
+      "id": "money",
+      "displayName": "???.ex?e",
+      "contentType": "program",
+      "iconKey": "icon_broken",
+      "parentFolder": "important",
+      "x": 60,
+      "y": 130,
+      "available": true,
+      "handlers": [
+        {
+          "extension": "exe",
+          "action": "install",
+          "baseName": "money"
+        }
+      ],
+      "renamable": true,
+      "allowedExt": [
+        "jpg",
+        "png",
+        "gif",
+        "bmp",
+        "txt",
+        "exe"
+      ]
+    },
+    {
+      "id": "mydream",
+      "displayName": "mydream.exe",
+      "contentType": "program",
+      "iconKey": "program",
+      "parentFolder": "desktop",
+      "x": 320,
+      "y": 130,
+      "available": false,
+      "handlers": [
+        {
+          "extension": "exe",
+          "action": "dream",
+          "baseName": ""
+        }
+      ]
+    }
+  ],
+  "openLabel": "Open",
+  "saveLabel": "Save",
+  "helpLabel": "Help",
+  "diaryHintZoom": 2,
+  "installSeconds": 3,
+  "dreamWindowRatio": 0.7
+}

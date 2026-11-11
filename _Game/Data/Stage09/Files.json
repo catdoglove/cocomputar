@@ -1,0 +1,242 @@
+{
+  "files": [
+    {
+      "id": "A",
+      "displayName": "A폴더",
+      "parentFolder": "desktop",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "available": true,
+      "x": 30,
+      "y": 175
+    },
+    {
+      "id": "B",
+      "displayName": "B폴더",
+      "parentFolder": "desktop",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "available": true,
+      "x": 170,
+      "y": 175
+    },
+    {
+      "id": "C",
+      "displayName": "C폴더",
+      "parentFolder": "desktop",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "available": true,
+      "x": 310,
+      "y": 175
+    },
+    {
+      "id": "zip",
+      "displayName": "열쇠꾸러미.zip",
+      "parentFolder": "desktop",
+      "contentType": "zip",
+      "iconKey": "s4_zip",
+      "available": true,
+      "x": 30,
+      "y": 315
+    },
+    {
+      "id": "keys",
+      "displayName": "열쇠꾸러미",
+      "parentFolder": "desktop",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "available": false,
+      "x": 30,
+      "y": 315
+    },
+    {
+      "id": "keyA",
+      "displayName": "열쇠A.key",
+      "parentFolder": "keys",
+      "contentType": "key",
+      "iconKey": "icon_key_special",
+      "available": true
+    },
+    {
+      "id": "keyB",
+      "displayName": "열쇠B.key",
+      "parentFolder": "keys",
+      "contentType": "key",
+      "iconKey": "icon_key_special",
+      "available": true
+    },
+    {
+      "id": "keyC",
+      "displayName": "열쇠C.key",
+      "parentFolder": "keys",
+      "contentType": "key",
+      "iconKey": "icon_key_special",
+      "available": true
+    },
+    {
+      "id": "record1",
+      "displayName": "기록_01.txt",
+      "parentFolder": "A",
+      "contentType": "record",
+      "iconKey": "document",
+      "available": true,
+      "hidden": false,
+      "renamable": true,
+      "allowedExt": [
+        "txt",
+        "png"
+      ],
+      "encoding": "ANSI"
+    },
+    {
+      "id": "record2",
+      "displayName": "기록_02.txt",
+      "parentFolder": "A",
+      "contentType": "record",
+      "iconKey": "document",
+      "available": true,
+      "hidden": false,
+      "renamable": true,
+      "allowedExt": [
+        "txt",
+        "png"
+      ],
+      "encoding": "ANSI"
+    },
+    {
+      "id": "record3",
+      "displayName": "기록_03.txt",
+      "parentFolder": "A",
+      "contentType": "record",
+      "iconKey": "document",
+      "available": true,
+      "hidden": true,
+      "renamable": true,
+      "allowedExt": [
+        "txt",
+        "png"
+      ],
+      "encoding": "ANSI"
+    },
+    {
+      "id": "record4",
+      "displayName": "기록_04.txt",
+      "parentFolder": "A",
+      "contentType": "record",
+      "iconKey": "document",
+      "available": true,
+      "hidden": false,
+      "renamable": true,
+      "allowedExt": [
+        "txt",
+        "png"
+      ],
+      "encoding": "ANSI"
+    },
+    {
+      "id": "record5",
+      "displayName": "기록_05.txt",
+      "parentFolder": "A",
+      "contentType": "record",
+      "iconKey": "document",
+      "available": true,
+      "hidden": true,
+      "renamable": true,
+      "allowedExt": [
+        "txt",
+        "png"
+      ],
+      "encoding": "ANSI"
+    },
+    {
+      "id": "image0",
+      "displayName": "풍경_01.png",
+      "parentFolder": "B",
+      "contentType": "image",
+      "iconKey": "picture",
+      "available": true,
+      "imageKey": "s3_past",
+      "hidden": false
+    },
+    {
+      "id": "image1",
+      "displayName": "풍경_02.png",
+      "parentFolder": "B",
+      "contentType": "image",
+      "iconKey": "picture",
+      "available": true,
+      "imageKey": "s5_photo",
+      "hidden": false
+    },
+    {
+      "id": "image2",
+      "displayName": "풍경_03.png",
+      "parentFolder": "B",
+      "contentType": "image",
+      "iconKey": "picture",
+      "available": true,
+      "imageKey": "s6_book_done",
+      "hidden": true
+    },
+    {
+      "id": "image3",
+      "displayName": "풍경_04.png",
+      "parentFolder": "B",
+      "contentType": "image",
+      "iconKey": "picture",
+      "available": true,
+      "imageKey": "s7_map",
+      "hidden": false
+    },
+    {
+      "id": "image4",
+      "displayName": "풍경_05.png",
+      "parentFolder": "B",
+      "contentType": "image",
+      "iconKey": "picture",
+      "available": true,
+      "imageKey": "s8_inverse1",
+      "hidden": true
+    },
+    {
+      "id": "image5",
+      "displayName": "풍경_06.png",
+      "parentFolder": "B",
+      "contentType": "image",
+      "iconKey": "picture",
+      "available": true,
+      "imageKey": "s8_inverse2",
+      "hidden": false
+    },
+    {
+      "id": "image6",
+      "displayName": "풍경_07.png",
+      "parentFolder": "B",
+      "contentType": "image",
+      "iconKey": "picture",
+      "available": true,
+      "imageKey": "s6_book",
+      "hidden": false
+    },
+    {
+      "id": "home",
+      "displayName": "나의 집.png",
+      "parentFolder": "C",
+      "contentType": "image",
+      "iconKey": "picture",
+      "available": true,
+      "imageKey": "s9_home"
+    },
+    {
+      "id": "finalKey",
+      "displayName": "열쇠.png",
+      "parentFolder": "desktop",
+      "contentType": "image",
+      "iconKey": "s9_head",
+      "available": false,
+      "x": 30,
+      "y": 455
+    }
+  ]
+}

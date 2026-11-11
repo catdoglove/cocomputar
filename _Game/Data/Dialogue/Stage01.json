@@ -1,0 +1,544 @@
+{
+  "sequences": [
+    {
+      "id": "S1_INTRO",
+      "lines": [
+        {
+          "id": "S1_INTRO_01",
+          "stringKey": "dialogue.stage01.S1_INTRO.01",
+          "speaker": "폴더",
+          "text": "이건 이렇게 다루고, 저건 저렇게 놓으면….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_02",
+          "stringKey": "dialogue.stage01.S1_INTRO.02",
+          "speaker": "V양",
+          "text": "저, 저기… 혹시….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_03",
+          "stringKey": "dialogue.stage01.S1_INTRO.03",
+          "speaker": "폴더",
+          "text": "이건 이쪽으로… 아, 아니… 어라?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_04",
+          "stringKey": "dialogue.stage01.S1_INTRO.04",
+          "speaker": "V양",
+          "text": "저기… 혹시 계신가요…?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_05",
+          "stringKey": "dialogue.stage01.S1_INTRO.05",
+          "speaker": "폴더",
+          "text": "아니, 왜 이제야 오셨습니까?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_06",
+          "stringKey": "dialogue.stage01.S1_INTRO.06",
+          "speaker": "V양",
+          "text": "네? 아, 아니요… 저기, 저는….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_07",
+          "stringKey": "dialogue.stage01.S1_INTRO.07",
+          "speaker": "폴더",
+          "text": "지금 한가하게 이야기할 시간이 없습니다!",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_08",
+          "stringKey": "dialogue.stage01.S1_INTRO.08",
+          "speaker": "폴더",
+          "text": "방 안이 너무 어지러워서 도무지 손을 쓸 수가 없군요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_09",
+          "stringKey": "dialogue.stage01.S1_INTRO.09",
+          "speaker": "폴더",
+          "text": "일손이 부족해 죽겠는데 도대체 어디서 뭘 하다 오신 겁니까?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_10",
+          "stringKey": "dialogue.stage01.S1_INTRO.10",
+          "speaker": "V양",
+          "text": "저, 저는 여기 처음 온 건데요…?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_11",
+          "stringKey": "dialogue.stage01.S1_INTRO.11",
+          "speaker": "폴더",
+          "text": "농담은 사양하겠습니다. 어서 평소처럼 좀 도와주시지요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_12",
+          "stringKey": "dialogue.stage01.S1_INTRO.12",
+          "speaker": "V양",
+          "text": "무슨 일을 도우라는 건지 잘 모르겠어서요….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_13",
+          "stringKey": "dialogue.stage01.S1_INTRO.13",
+          "speaker": "폴더",
+          "text": "이 사방에 널브러진 그림과 문서들부터 어떻게 좀 처리해야된단 말입니다.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_INTRO_14",
+          "stringKey": "dialogue.stage01.S1_INTRO.14",
+          "speaker": "독백",
+          "text": "말이 진행이 안되는 거 같아.. 일단 정리부터 하고 다시 오도록하자",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        }
+      ]
+    },
+    {
+      "id": "S1_CHECK1",
+      "lines": [
+        {
+          "id": "S1_CHECK1_01",
+          "stringKey": "dialogue.stage01.S1_CHECK1.01",
+          "speaker": "V양",
+          "text": "저, 전부 다 정리하고 왔어요….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK1_02",
+          "stringKey": "dialogue.stage01.S1_CHECK1.02",
+          "speaker": "폴더",
+          "text": "어디 한번 볼까요….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        }
+      ]
+    },
+    {
+      "id": "S1_CHECK1_FAIL",
+      "lines": [
+        {
+          "id": "S1_CHECK1_FAIL_01",
+          "stringKey": "dialogue.stage01.S1_CHECK1_FAIL.01",
+          "speaker": "폴더",
+          "text": "음… 아무래도 무언가 잘못된 것 같군요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK1_FAIL_02",
+          "stringKey": "dialogue.stage01.S1_CHECK1_FAIL.02",
+          "speaker": "폴더",
+          "text": "죄송하지만 다시 확인하고 와 주시겠습니까?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        }
+      ]
+    },
+    {
+      "id": "S1_CHECK1_OK",
+      "lines": [
+        {
+          "id": "S1_CHECK1_OK_01",
+          "stringKey": "dialogue.stage01.S1_CHECK1_OK.01",
+          "speaker": "폴더",
+          "text": "오, 그렇군요! 바로 이겁니다. 제가 딱 이렇게 정리되기를 바랐습니다!",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK1_OK_02",
+          "stringKey": "dialogue.stage01.S1_CHECK1_OK.02",
+          "speaker": "V양",
+          "text": "휴.. 그럼이제..",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK1_OK_03",
+          "stringKey": "dialogue.stage01.S1_CHECK1_OK.03",
+          "speaker": "폴더",
+          "text": "아차, 제 정신 좀 보세요. 깜빡하고 말씀드리지 못한 게 있었군요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK1_OK_04",
+          "stringKey": "dialogue.stage01.S1_CHECK1_OK.04",
+          "speaker": "V양",
+          "text": "네…? 어떤 거요…?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK1_OK_05",
+          "stringKey": "dialogue.stage01.S1_CHECK1_OK.05",
+          "speaker": "폴더",
+          "text": "숨겨진 파일이 더 있다는 걸 그만 잊고 있었습니다.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK1_OK_06",
+          "stringKey": "dialogue.stage01.S1_CHECK1_OK.06",
+          "speaker": "폴더",
+          "text": "다시 가서 차근차근 살펴보고 와 주시겠습니까?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK1_OK_07",
+          "stringKey": "dialogue.stage01.S1_CHECK1_OK.07",
+          "speaker": "V양",
+          "text": "아… 네, 알겠어요….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK1_OK_08",
+          "stringKey": "dialogue.stage01.S1_CHECK1_OK.08",
+          "speaker": "폴더",
+          "text": "지금 다시 가 보시면 분명 '숨겨진 파일'을 찾아내실 수 있을 겁니다.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": [
+            {
+              "word": "숨겨진 파일",
+              "color": "#FF4FD8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S1_CHECK2",
+      "lines": [
+        {
+          "id": "S1_CHECK2_01",
+          "stringKey": "dialogue.stage01.S1_CHECK2.01",
+          "speaker": "V양",
+          "text": "이제 진짜 다 하고 왔어요….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK2_02",
+          "stringKey": "dialogue.stage01.S1_CHECK2.02",
+          "speaker": "폴더",
+          "text": "어디 한번 볼까요….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        }
+      ]
+    },
+    {
+      "id": "S1_CHECK2_FAIL",
+      "lines": [
+        {
+          "id": "S1_CHECK2_FAIL_01",
+          "stringKey": "dialogue.stage01.S1_CHECK2_FAIL.01",
+          "speaker": "폴더",
+          "text": "음… 아무래도 무언가 아직 잘못된 것 같군요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK2_FAIL_02",
+          "stringKey": "dialogue.stage01.S1_CHECK2_FAIL.02",
+          "speaker": "폴더",
+          "text": "미안하지만 다시 한번 살펴보고 와 주시겠습니까?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        }
+      ]
+    },
+    {
+      "id": "S1_CHECK2_OK",
+      "lines": [
+        {
+          "id": "S1_CHECK2_OK_01",
+          "stringKey": "dialogue.stage01.S1_CHECK2_OK.01",
+          "speaker": "폴더",
+          "text": "오, 드디어 깔끔하게 정리가 다 되었군요!",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_CHECK2_OK_02",
+          "stringKey": "dialogue.stage01.S1_CHECK2_OK.02",
+          "speaker": "폴더",
+          "text": "휴… 덕분에 살았습니다. 정말 고맙습니다.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        }
+      ]
+    },
+    {
+      "id": "S1_OUTRO",
+      "lines": [
+        {
+          "id": "S1_OUTRO_01",
+          "stringKey": "dialogue.stage01.S1_OUTRO.01",
+          "speaker": "폴더",
+          "text": "역시 오랜만에 찾아오셔도 여전히 훌륭하게 해내시는군요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_02",
+          "stringKey": "dialogue.stage01.S1_OUTRO.02",
+          "speaker": "V양",
+          "text": "저, 진짜 여기 처음 오는 건데요…?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_03",
+          "stringKey": "dialogue.stage01.S1_OUTRO.03",
+          "speaker": "폴더",
+          "text": "아닙니다, 제가 기억력이 예전만 못해서 그런 걸 겁니다.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_04",
+          "stringKey": "dialogue.stage01.S1_OUTRO.04",
+          "speaker": "폴더",
+          "text": "이게 대체 얼마 만인가요? 열흘? 10주? 아니면… 10년쯤 되었나요?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_05",
+          "stringKey": "dialogue.stage01.S1_OUTRO.05",
+          "speaker": "V양",
+          "text": "…그냥 편하신 대로 생각하세요….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_06",
+          "stringKey": "dialogue.stage01.S1_OUTRO.06",
+          "speaker": "폴더",
+          "text": "그나저나 모습이 몰라보게 달라지셨군요. 머리 스타일을 바꾸신 건가요?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_07",
+          "stringKey": "dialogue.stage01.S1_OUTRO.07",
+          "speaker": "V양",
+          "text": "저 계속 이 머리였는데요….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_08",
+          "stringKey": "dialogue.stage01.S1_OUTRO.08",
+          "speaker": "폴더",
+          "text": "허허, 그렇습니까? 얼굴은 예전 그대로인데 몸만 쑥 자라셨군요! 정말 반갑습니다.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_09",
+          "stringKey": "dialogue.stage01.S1_OUTRO.09",
+          "speaker": "V양",
+          "text": "아니… 저기, 그래서 저는 무슨 일로 여기 불려 온 건가요?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_10",
+          "stringKey": "dialogue.stage01.S1_OUTRO.10",
+          "speaker": "폴더",
+          "text": "오히려 제가 여쭤보고 싶군요. 무슨 일로 절 찾아오신 겁니까?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_11",
+          "stringKey": "dialogue.stage01.S1_OUTRO.11",
+          "speaker": "V양",
+          "text": "제가 오고 싶어서 온 게 아니란 말이에요…",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_12",
+          "stringKey": "dialogue.stage01.S1_OUTRO.12",
+          "speaker": "V양",
+          "text": "전 그냥 여기서 나가고 싶어요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_13",
+          "stringKey": "dialogue.stage01.S1_OUTRO.13",
+          "speaker": "폴더",
+          "text": "음… 나가는 곳이라 해도 말입니다. 글쎄요, 저도 여길 나가본 적이 없어서 잘 모르겠군요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_14",
+          "stringKey": "dialogue.stage01.S1_OUTRO.14",
+          "speaker": "V양",
+          "text": "네…? 그럼 전 어떻게 나간대요…?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_15",
+          "stringKey": "dialogue.stage01.S1_OUTRO.15",
+          "speaker": "폴더",
+          "text": "아, 그러고 보니 제게 거의 쓰지 않는 오래된 폴더가 하나 있긴 합니다.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_16",
+          "stringKey": "dialogue.stage01.S1_OUTRO.16",
+          "speaker": "폴더",
+          "text": "오랫동안 정리하지 않아서 안에 뭐가 들었는지는 저도 잘 모릅니다만…",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_17",
+          "stringKey": "dialogue.stage01.S1_OUTRO.17",
+          "speaker": "폴더",
+          "text": "혹시 나가는 데 도움이 될지도 모르겠군요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_18",
+          "stringKey": "dialogue.stage01.S1_OUTRO.18",
+          "speaker": "V양",
+          "text": "정말요…?",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_19",
+          "stringKey": "dialogue.stage01.S1_OUTRO.19",
+          "speaker": "폴더",
+          "text": "도움이 될지도 모르니 여기 두고 가겠습니다. 차근차근 살펴보시지요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_20",
+          "stringKey": "dialogue.stage01.S1_OUTRO.20",
+          "speaker": "V양",
+          "text": "…어쨌든 감사합니다….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_21",
+          "stringKey": "dialogue.stage01.S1_OUTRO.21",
+          "speaker": "폴더",
+          "text": "별말씀을요. 혹시나 둘러보시다 잘 모르겠거나 도움이 더 필요하면 언제든지 다시 찾아오십시오.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_22",
+          "stringKey": "dialogue.stage01.S1_OUTRO.22",
+          "speaker": "V양",
+          "text": "아… 네, 알겠어요…. 그럴 일은 없었으면 좋겠지만요….",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        },
+        {
+          "id": "S1_OUTRO_23",
+          "stringKey": "dialogue.stage01.S1_OUTRO.23",
+          "speaker": "폴더",
+          "text": "이 방의 문은 언제나 열려 있으니 부담 갖지 말고 오시지요.",
+          "emotion": "neutral",
+          "portraitKey": "",
+          "highlightWords": []
+        }
+      ]
+    }
+  ]
+}

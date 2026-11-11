@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3099adeef11d980439d4071c7253a949, type: 3}
+  m_Name: Stage01
+  m_EditorClassIdentifier: Assembly-CSharp::CoComputar.StageDefinition
+  stageId: Stage01
+  nextStageId: Stage02
+  title: Co-computar.
+  clearCondition: door.exe
+  entryPrefab: {fileID: 0}
+  dialogue: {fileID: 4900000, guid: e6001089f32da034c9091a21d1dc46c0, type: 3}
+  files: {fileID: 4900000, guid: 52e2b61c1dcac554286c6c8fc223037a, type: 3}
+  folderTree: {fileID: 4900000, guid: 6abb80c537336b44f91f9d10334ded78, type: 3}
+  letters: {fileID: 4900000, guid: 6356aab459f793747a8811c7152c823c, type: 3}
+  hasPrologue: 1

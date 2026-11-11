@@ -1,0 +1,289 @@
+{
+  "sequences": [
+    {
+      "id": "S6_TALK_1",
+      "lines": [
+        {
+          "speaker": "조이스틱",
+          "text": "왔다! 왔어!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "네?",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "할 거지? 같이?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "뭐를요?",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "전처럼! 게임!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "어... 저는 게임을 해본 적이 없는데요.",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "아니야! 했어! 10년 전!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "10년?!",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "같이하자! 헤헤.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "저는 그럴 시간이 없어요.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "여기서 나가고 싶어요... 아시는 거 있나요?",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "안 돼.",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "나가는 건.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...?!",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "같이 놀자! 나가지 마!",
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "말이 통하지 않는다.",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S6_TALK_2",
+      "lines": [
+        {
+          "speaker": "조이스틱",
+          "text": "재밌어?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아, 네. 할 만해요.",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "즐거워?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "네, 괜찮은 것 같아요.",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "좋아! 게임을 하면 헤헤...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "게임 많이 하시나 봐요?",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "해! 많이! 계속!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "얼마나 많이 하셨어요?",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "136년!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "그보다 더?",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "아니면 그보다 더 적게?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "네가 즐거우면.",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "나도 좋아!",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "같이하자! 계속!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아... 네, 그래요.",
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "일단 맞장구를 치자.",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S6_TALK_BASE",
+      "lines": [
+        {
+          "speaker": "조이스틱",
+          "text": "같이 있을 거지?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "네? 일단은...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "나갈 방법이 없으니 계속 있을 것 같아요.",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "좋아! 좋아! 좋아!",
+          "paginate": true
+        },
+        {
+          "speaker": "독백",
+          "text": "...뭐가 그렇게 좋을까?",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S6_BLOCK",
+      "lines": [
+        {
+          "speaker": "조이스틱",
+          "text": "안 돼!!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아이, 깜짝이야! 왜 그러세요?",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "안 돼! 안 돼!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "뭐가 안 된다는 말씀이세요?",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼 안 돼!!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "치... 침착하세요!",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "가지 마.",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "남아 놀자? 나랑?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "저... 무슨 말씀이신지...",
+          "paginate": true
+        },
+        {
+          "speaker": "조이스틱",
+          "text": "헤헤. 계속 놀자!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "S6_AFTER_BLOCK",
+      "lines": [
+        {
+          "speaker": "독백",
+          "text": "혼자 놀고 있는 것 같으니 말을 걸지 말자...",
+          "paginate": true
+        }
+      ]
+    }
+  ]
+}

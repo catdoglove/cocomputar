@@ -1,0 +1,36 @@
+{
+  "photoCount": 31,
+  "puzzleClearSfx": "sfx_key_get",
+  "radioHold": 2.5,
+  "secondTalkSeconds": 120,
+  "secondTalkInteractions": 5,
+  "photo": {
+    "sliderMin": 0,
+    "sliderMax": 20,
+    "tolerance": 0,
+    "hold": 0.5
+  },
+  "songs": [
+    "a_dream_world",
+    "your_dream",
+    "my_dream",
+    "happy_dream",
+    "sad_dream",
+    "classic_song",
+    "who_are_you",
+    "i_m_find_thank_you",
+    "and_you_are",
+    "love_song_forever"
+  ],
+  "radioDistances": [
+    0,
+    1,
+    12
+  ],
+  "radioGains": [
+    1,
+    0.85,
+    0
+  ],
+  "classicSong": "classic_song"
+}

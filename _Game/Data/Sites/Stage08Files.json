@@ -1,0 +1,180 @@
+{
+  "files": [
+    {
+      "id": "my",
+      "displayName": "mydiary.html",
+      "contentType": "html",
+      "parentFolder": "desktop",
+      "available": true,
+      "imageKey": "picture",
+      "iconKey": "program",
+      "x": 175,
+      "y": 40
+    },
+    {
+      "id": "your",
+      "displayName": "yourdiary.shtml",
+      "contentType": "html",
+      "parentFolder": "desktop",
+      "available": true,
+      "imageKey": "picture",
+      "iconKey": "program",
+      "x": 310,
+      "y": 40
+    },
+    {
+      "id": "mail",
+      "displayName": "Ourmail.exe",
+      "contentType": "program",
+      "parentFolder": "desktop",
+      "available": true,
+      "imageKey": "picture",
+      "iconKey": "program",
+      "x": 445,
+      "y": 40
+    },
+    {
+      "id": "plank",
+      "displayName": "나무판자.png",
+      "contentType": "image",
+      "parentFolder": "desktop",
+      "available": false,
+      "imageKey": "s8_plank",
+      "iconKey": "s8_plank",
+      "x": 40,
+      "y": 200
+    },
+    {
+      "id": "paint",
+      "displayName": "페인트.zip",
+      "contentType": "zip",
+      "parentFolder": "desktop",
+      "available": false,
+      "imageKey": "s4_zip",
+      "iconKey": "s4_zip",
+      "x": 170,
+      "y": 200
+    },
+    {
+      "id": "handle",
+      "displayName": "금속 손잡이.png",
+      "contentType": "image",
+      "parentFolder": "desktop",
+      "available": false,
+      "imageKey": "s8_handle",
+      "iconKey": "s8_handle",
+      "x": 300,
+      "y": 200
+    },
+    {
+      "id": "door",
+      "displayName": "door.exe",
+      "contentType": "program",
+      "parentFolder": "desktop",
+      "available": false,
+      "imageKey": "door",
+      "iconKey": "program",
+      "x": 430,
+      "y": 200
+    },
+    {
+      "id": "head",
+      "displayName": "head.png",
+      "contentType": "image",
+      "parentFolder": "desktop",
+      "available": false,
+      "imageKey": "s8_globe",
+      "iconKey": "s8_globe",
+      "x": 560,
+      "y": 200
+    },
+    {
+      "id": "body",
+      "displayName": "body.png",
+      "contentType": "image",
+      "parentFolder": "desktop",
+      "available": false,
+      "imageKey": "portrait_folder",
+      "iconKey": "portrait_folder",
+      "x": 690,
+      "y": 200
+    },
+    {
+      "id": "colors",
+      "displayName": "페인트",
+      "contentType": "folder",
+      "parentFolder": "desktop",
+      "available": false,
+      "imageKey": "picture",
+      "iconKey": "folder",
+      "x": 170,
+      "y": 200
+    },
+    {
+      "id": "red",
+      "displayName": "빨강색.png",
+      "contentType": "image",
+      "parentFolder": "colors",
+      "available": true,
+      "imageKey": "s8_red",
+      "iconKey": "s8_red",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "blue",
+      "displayName": "파란색.png",
+      "contentType": "image",
+      "parentFolder": "colors",
+      "available": true,
+      "imageKey": "s8_blue",
+      "iconKey": "s8_blue",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "orange",
+      "displayName": "주황색.png",
+      "contentType": "image",
+      "parentFolder": "colors",
+      "available": true,
+      "imageKey": "s8_orange",
+      "iconKey": "s8_orange",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "purple",
+      "displayName": "보라색.png",
+      "contentType": "image",
+      "parentFolder": "colors",
+      "available": true,
+      "imageKey": "s8_purple",
+      "iconKey": "s8_purple",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "white",
+      "displayName": "하얀색.png",
+      "contentType": "image",
+      "parentFolder": "colors",
+      "available": true,
+      "imageKey": "s8_white",
+      "iconKey": "s8_white",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "black",
+      "displayName": "검정색.png",
+      "contentType": "image",
+      "parentFolder": "colors",
+      "available": true,
+      "imageKey": "s8_black",
+      "iconKey": "s8_black",
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

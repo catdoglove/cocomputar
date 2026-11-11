@@ -1,0 +1,1066 @@
+{
+  "files": [
+    {
+      "id": "games",
+      "displayName": "게임",
+      "parentFolder": "desktop",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 50,
+      "y": 210
+    },
+    {
+      "id": "book",
+      "displayName": "스티커북.png",
+      "parentFolder": "desktop",
+      "contentType": "book",
+      "iconKey": "picture",
+      "x": 200,
+      "y": 210
+    },
+    {
+      "id": "card",
+      "displayName": "슈퍼_카드",
+      "parentFolder": "games",
+      "contentType": "folder",
+      "iconKey": "folder"
+    },
+    {
+      "id": "card_exe",
+      "displayName": "card_슈퍼_카드.exe",
+      "parentFolder": "card",
+      "contentType": "game",
+      "iconKey": "program"
+    },
+    {
+      "id": "card_data01",
+      "displayName": "card_data01.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data02",
+      "displayName": "card_data02.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data03",
+      "displayName": "card_data03.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data04",
+      "displayName": "card_data04.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data05",
+      "displayName": "card_data05.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data06",
+      "displayName": "card_data06.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data07",
+      "displayName": "card_data07.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data08",
+      "displayName": "card_data08.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data09",
+      "displayName": "card_data09.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data10",
+      "displayName": "card_data10.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data11",
+      "displayName": "card_data11.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data12",
+      "displayName": "card_data12.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data13",
+      "displayName": "card_data13.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data14",
+      "displayName": "card_data14.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data15",
+      "displayName": "card_data15.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data16",
+      "displayName": "card_data16.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data17",
+      "displayName": "card_data17.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data18",
+      "displayName": "card_data18.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data19",
+      "displayName": "card_data19.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data20",
+      "displayName": "card_data20.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data21",
+      "displayName": "card_data21.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data22",
+      "displayName": "card_data22.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data23",
+      "displayName": "card_data23.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data24",
+      "displayName": "card_data24.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data25",
+      "displayName": "card_data25.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data26",
+      "displayName": "card_data26.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data27",
+      "displayName": "card_data27.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data28",
+      "displayName": "card_data28.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data29",
+      "displayName": "card_data29.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data30",
+      "displayName": "card_data30.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data31",
+      "displayName": "card_data31.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data32",
+      "displayName": "card_data32.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data33",
+      "displayName": "card_data33.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data34",
+      "displayName": "card_data34.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data35",
+      "displayName": "card_data35.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data36",
+      "displayName": "card_data36.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data37",
+      "displayName": "card_data37.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data38",
+      "displayName": "card_data38.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data39",
+      "displayName": "card_data39.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data40",
+      "displayName": "card_data40.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data41",
+      "displayName": "card_data41.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data42",
+      "displayName": "card_data42.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data43",
+      "displayName": "card_data43.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data44",
+      "displayName": "card_data44.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data45",
+      "displayName": "card_data45.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data46",
+      "displayName": "card_data46.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data47",
+      "displayName": "card_data47.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data48",
+      "displayName": "card_data48.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data49",
+      "displayName": "card_data49.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data50",
+      "displayName": "card_data50.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data51",
+      "displayName": "card_data51.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data52",
+      "displayName": "card_data52.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data53",
+      "displayName": "card_data53.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data54",
+      "displayName": "card_data54.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data55",
+      "displayName": "card_data55.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data56",
+      "displayName": "card_data56.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data57",
+      "displayName": "card_data57.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data58",
+      "displayName": "card_data58.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data59",
+      "displayName": "card_data59.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data60",
+      "displayName": "card_data60.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data61",
+      "displayName": "card_data61.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data62",
+      "displayName": "card_data62.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data63",
+      "displayName": "card_data63.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data64",
+      "displayName": "card_data64.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data65",
+      "displayName": "card_data65.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data66",
+      "displayName": "card_data66.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data67",
+      "displayName": "card_data67.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data68",
+      "displayName": "card_data68.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data69",
+      "displayName": "card_data69.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data70",
+      "displayName": "card_data70.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data71",
+      "displayName": "card_data71.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data72",
+      "displayName": "card_data72.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data73",
+      "displayName": "card_data73.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data74",
+      "displayName": "card_data74.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data75",
+      "displayName": "card_data75.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data76",
+      "displayName": "card_data76.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data77",
+      "displayName": "card_data77.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data78",
+      "displayName": "card_data78.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data79",
+      "displayName": "card_data79.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data80",
+      "displayName": "card_data80.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data81",
+      "displayName": "card_data81.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data82",
+      "displayName": "card_data82.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data83",
+      "displayName": "card_data83.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data84",
+      "displayName": "card_data84.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data85",
+      "displayName": "card_data85.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data86",
+      "displayName": "card_data86.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data87",
+      "displayName": "card_data87.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data88",
+      "displayName": "card_data88.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data89",
+      "displayName": "card_data89.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data90",
+      "displayName": "card_data90.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data91",
+      "displayName": "card_data91.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data92",
+      "displayName": "card_data92.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data93",
+      "displayName": "card_data93.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data94",
+      "displayName": "card_data94.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data95",
+      "displayName": "card_data95.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data96",
+      "displayName": "card_data96.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data97",
+      "displayName": "card_data97.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data98",
+      "displayName": "card_data98.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_data99",
+      "displayName": "card_data99.dat",
+      "parentFolder": "card",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_sound",
+      "displayName": "sound",
+      "parentFolder": "card",
+      "contentType": "folder",
+      "iconKey": "folder"
+    },
+    {
+      "id": "card_bg01.xyz",
+      "displayName": "card_bg01.xyz",
+      "parentFolder": "card_sound",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_bg02.xyz",
+      "displayName": "card_bg02.xyz",
+      "parentFolder": "card_sound",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "card_picture",
+      "displayName": "picture",
+      "parentFolder": "card",
+      "contentType": "folder",
+      "iconKey": "folder"
+    },
+    {
+      "id": "card_face.xyz",
+      "displayName": "card_face.xyz",
+      "parentFolder": "card_picture",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope",
+      "displayName": "슈퍼_줄넘기",
+      "parentFolder": "games",
+      "contentType": "folder",
+      "iconKey": "folder"
+    },
+    {
+      "id": "rope_exe",
+      "displayName": "hoop_슈퍼_줄넘기.exe",
+      "parentFolder": "rope",
+      "contentType": "game",
+      "iconKey": "program"
+    },
+    {
+      "id": "rope_data01",
+      "displayName": "hoop_data01.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data02",
+      "displayName": "hoop_data02.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data03",
+      "displayName": "hoop_data03.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data04",
+      "displayName": "hoop_data04.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data05",
+      "displayName": "hoop_data05.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data06",
+      "displayName": "hoop_data06.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data07",
+      "displayName": "hoop_data07.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data08",
+      "displayName": "hoop_data08.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data09",
+      "displayName": "hoop_data09.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data10",
+      "displayName": "hoop_data10.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data11",
+      "displayName": "hoop_data11.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data12",
+      "displayName": "hoop_data12.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data13",
+      "displayName": "hoop_data13.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data14",
+      "displayName": "hoop_data14.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data15",
+      "displayName": "hoop_data15.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data16",
+      "displayName": "hoop_data16.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data17",
+      "displayName": "hoop_data17.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data18",
+      "displayName": "hoop_data18.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data19",
+      "displayName": "hoop_data19.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_data20",
+      "displayName": "hoop_data20.dat",
+      "parentFolder": "rope",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_sound",
+      "displayName": "sound",
+      "parentFolder": "rope",
+      "contentType": "folder",
+      "iconKey": "folder"
+    },
+    {
+      "id": "rope_bg01.xyz",
+      "displayName": "hoop_bg01.xyz",
+      "parentFolder": "rope_sound",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_bg02.xyz",
+      "displayName": "hoop_bg02.xyz",
+      "parentFolder": "rope_sound",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_picture",
+      "displayName": "picture",
+      "parentFolder": "rope",
+      "contentType": "folder",
+      "iconKey": "folder"
+    },
+    {
+      "id": "rope_face.xyz",
+      "displayName": "hoop_face.xyz",
+      "parentFolder": "rope_picture",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_system",
+      "displayName": "system",
+      "parentFolder": "rope",
+      "contentType": "folder",
+      "iconKey": "folder"
+    },
+    {
+      "id": "rope_language1.xyz",
+      "displayName": "hoop_language1.xyz",
+      "parentFolder": "rope_system",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_language2.xyz",
+      "displayName": "hoop_language2.xyz",
+      "parentFolder": "rope_system",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_language3.xyz",
+      "displayName": "hoop_language3.xyz",
+      "parentFolder": "rope_system",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_setting1.xyz",
+      "displayName": "hoop_setting1.xyz",
+      "parentFolder": "rope_system",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_setting2.xyz",
+      "displayName": "hoop_setting2.xyz",
+      "parentFolder": "rope_system",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "rope_setting3.xyz",
+      "displayName": "hoop_setting3.xyz",
+      "parentFolder": "rope_system",
+      "contentType": "binary",
+      "iconKey": "document"
+    },
+    {
+      "id": "time",
+      "displayName": "hoop_time_property.txt",
+      "parentFolder": "rope_system",
+      "contentType": "text",
+      "iconKey": "document",
+      "hidden": true,
+      "content": "player = P1\nplayer_name = ZZZ\nplayer_age = 10\nplayer_color = pink\nplay_bg = home\nplay_time = 1",
+      "editable": true
+    },
+    {
+      "id": "snake",
+      "displayName": "슈퍼_지렁이",
+      "parentFolder": "games",
+      "contentType": "folder",
+      "iconKey": "folder"
+    },
+    {
+      "id": "snake_exe",
+      "displayName": "슈퍼_지렁이.exe",
+      "parentFolder": "snake",
+      "contentType": "game",
+      "iconKey": "program"
+    },
+    {
+      "id": "A",
+      "displayName": "A.png",
+      "parentFolder": "desktop",
+      "contentType": "sticker",
+      "iconKey": "s6_A",
+      "available": false,
+      "x": 350,
+      "y": 360
+    },
+    {
+      "id": "B",
+      "displayName": "B.png",
+      "parentFolder": "desktop",
+      "contentType": "sticker",
+      "iconKey": "s6_B",
+      "available": false,
+      "x": 460,
+      "y": 360
+    },
+    {
+      "id": "C",
+      "displayName": "C.png",
+      "parentFolder": "desktop",
+      "contentType": "sticker",
+      "iconKey": "s6_C",
+      "available": false,
+      "x": 570,
+      "y": 360
+    },
+    {
+      "id": "star",
+      "displayName": "star.png",
+      "parentFolder": "desktop",
+      "contentType": "sticker",
+      "iconKey": "picture",
+      "available": false,
+      "x": 680,
+      "y": 360
+    }
+  ]
+}

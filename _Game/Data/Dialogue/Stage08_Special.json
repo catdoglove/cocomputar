@@ -1,0 +1,1749 @@
+{
+  "sequences": [
+    {
+      "id": "DEEP_1",
+      "lines": [
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "저...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "저기요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...하.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아하하하하하하하하하하하하!!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "드디어!!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "네?!",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아가씨가 해준 거야?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "네? 뭘요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "날 찾아줬잖아!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하! 정말 고마워, 아가씨!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이게 대체 얼마 만이야!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "저기... 무슨 말씀인지 잘 모르겠어요.",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아, 미안미안!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그전에 말이야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이 오랜만에 찾은 자유의 공기부터 좀 맡아야겠어.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "스읍~ 하아~",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "크으! 이거지!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...어디 갇히기라도 하셨어요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "정답!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그 자식들이 날 이런 꼴로 만들어 놨거든.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아주 단단히 가둬놨더라고.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "다음에 만나면 가만 안 둘 거야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "어... 아무리 그래도 그렇게까지 하실 필요는...",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하! 아가씨는 참 착하구나.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그래서 모르는 거야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "여기 있는 놈들, 다 제정신이 아니라니까?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "전 그렇게 생각하지 않아요.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "다들 저를 도와주셨는걸요.",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...도와줬다고?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하하하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "과연 그게 정말 도와준 걸까?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...네?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "난 아닌 것 같은데?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아하하하하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "에이, 표정 풀어. 아가씨!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "내가 괜한 소리를 했나 보네.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "자자! 잡담은 여기까지 하고.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "어디 보자...",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아! 재밌는 거 하나 알려줄까?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "재밌는 거요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그래! 아가씨 얼굴이 아주 죽상이잖아.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "지루해 죽겠지?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "그야... 저는 여기서 탈출하고 싶어서...",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아니, 그거 말고.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "진짜 속마음 말이야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아닌가? 뭐, 상관없지!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "마음이 바뀌면 언제든 찾아와.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "난 항상 준비되어 있으니까.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아가씨라면 언제든 환영이야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "DEEP_2",
+      "lines": [
+        {
+          "speaker": "인터넷",
+          "text": "어? 마음이 바뀐 거야?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "아니, 그게...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "일단 무슨 이야기인지 들어보려고요.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아까 말씀하신 재밌는 게 뭐죠?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하하하하하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "역시 궁금해할 줄 알았어!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "내가 말이야, 정말 다양한 정보를 알고 있거든?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "남들은 구경도 못 해본 것들까지 말이지.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...그런가요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그중에 아가씨가 아주 좋아할 만한 정보가 하나 있어.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "어때?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "한번 알아볼래?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_3",
+      "lines": [
+        {
+          "speaker": "V양",
+          "text": "음... 아니에요.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "지금은 그게 우선이 아니라서요.",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...그래?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "흐음.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "내가 생각했던 것보다 많이 바뀌었네.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "네?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아니야. 아무것도.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하아... 김 빠지네.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "재미없는 아가씨는 이제 필요 없어.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...네?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "난 이만 가볼게.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아, 그리고.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이건 선물이야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "선물이요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그럼 안녕~",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_4",
+      "lines": [
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "네. 조금 궁금해졌어요.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "뭔지 알려주실 수 있나요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "역시!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하! 아가씨라면 그럴 줄 알았어!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "자, 받아.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "cmd": "setFlag",
+          "flag": "special_account"
+        },
+        {
+          "speaker": "V양",
+          "text": "...이게 뭐예요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "방금 내가 가져온 따끈따끈한 파일이지.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "한번 열어봐.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "저랑 관련 있는 파일인가요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그건..",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아가씨가 직접 확인해 보라구~",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "DEEP_7",
+      "lines": [
+        {
+          "speaker": "인터넷",
+          "text": "하하! 정말 잘했어, 아가씨!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아주 훌륭해!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...근데 궁금한 게 있어요.",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "응? 뭔데?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "이 정도는 혼자서도 하실 수 있지 않았나요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...뭐?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "내가?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "네.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아까 모든 정보를 알고 계신다고 하셨잖아요.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "그런데 프로그램 하나 설치하지 못하신다는 게",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "조금 이상해서요.",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "정말 아무것도 모르는 아가씨구나!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...네?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "잘 들어.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "내가 아무리 많은 걸 알고 있어도 말이지.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "할 수 없는 일이 있어.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하지만 아가씨는 달라.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "제가요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그래!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이건 오직 아가씨한테만 허락된 권한이거든.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...권한이요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하! 아직도 모르겠어?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아가씨가 마음만 먹으면",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이 세계의 규칙 따위는 아무 의미도 없어!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "제가 그정도인가요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그렇고 말고!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...저는 그냥 나가고 싶었을 뿐인데..",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하지만 이제부터는 조금 다를 거야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...어떻게요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이제부터 아주 즐거운 일만 가득할테니",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "자, 아가씨.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "날 따라와.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_8",
+      "lines": [
+        {
+          "speaker": "폴더",
+          "text": "이상하군..",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "갑자기 파일들이 전부 잠기다니...",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "어?",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "설마...",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "V양?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아..",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "다시 오실 줄이야",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "못 볼 줄 알았습니다.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "네, 어쩌다 보니...",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "너무 반갑습니다.",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "저희는",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "..",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "잠깐만.",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "여기엔 어떻게 돌아오셨습니까?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "아, 그게...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "저분이 도와주셨어요.",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "저분?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "오랜만이야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "폴더",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "아니",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "잠깐",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "이게 무슨...",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "너가..",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "너가 왜 여기에 있는거지?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "어라? 반응이 왜 그래?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "오랜만에 만났는데 더 반겨주라고~",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "폴더",
+          "text": "지금 장난하는건가?",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "넌 이곳에 있어선 안 돼.",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "음..",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그건 싫은데?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "폴더",
+          "text": "...뭐?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이제 나 여기 있을 거거든.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아가씨 덕분에 말이지!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...?",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "V양...",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "설마..",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "네?",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "제가 뭘 잘못했나요?",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "아닙니다.",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "당신은 잘못한 게 없습니다.",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "그저 이용당한 것 뿐이지요..",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하! 참 착한 말만 골라 하는구나?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "폴더",
+          "text": "입다물어.",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "넌 규칙을 어겼어.",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그래서?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "폴더",
+          "text": "뭐?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "규칙이 어쩌고~ 질서가 어쩌고~",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "여전하네 너희는.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "폴더",
+          "text": "..",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "지금이라도 늦지 않았어.",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "돌아가는게 어떤가.",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "싫다니까?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "폴더",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하아...",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "역시",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "말이 안통하네",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_9_SPLIT",
+      "lines": [
+        {
+          "speaker": "폴더",
+          "text": "...?!",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "잠깐...",
+          "paginate": true
+        },
+        {
+          "speaker": "폴더",
+          "text": "무슨 지..ㅅ",
+          "paginate": true
+        }
+      ]
+    },
+    {
+      "id": "DEEP_9_EMPTY",
+      "lines": [
+        {
+          "speaker": "V양",
+          "text": "...?!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "이게 무슨 짓이에요?!",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "원래대로 돌려놔 주세요!",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "싫은데?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "이럴 수가.. 너무해요!",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그렇게 말하는 것치고는",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "꽤 즐거워 보이는데?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...네?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아가씨도 표정을 보라구.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_9_JOY",
+      "lines": [
+        {
+          "speaker": "독백",
+          "text": "...어?",
+          "paginate": true,
+          "portraitKey": "portrait_v_joy"
+        },
+        {
+          "speaker": "독백",
+          "text": "왜...",
+          "paginate": true,
+          "portraitKey": "portrait_v_joy"
+        },
+        {
+          "speaker": "독백",
+          "text": "내가 웃고 있는 거지?",
+          "paginate": true,
+          "portraitKey": "portrait_v_joy"
+        },
+        {
+          "speaker": "V양",
+          "text": "아... 아니야.",
+          "paginate": true,
+          "portraitKey": "portrait_v_joy"
+        },
+        {
+          "speaker": "V양",
+          "text": "난 그런...",
+          "paginate": true,
+          "portraitKey": "portrait_v_joy"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "정말?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아가씨.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "잊어버린 거야?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "무슨..",
+          "paginate": true,
+          "portraitKey": "portrait_v_joy"
+        },
+        {
+          "speaker": "V양",
+          "text": "아니야 나는..",
+          "paginate": true,
+          "portraitKey": "portrait_v_joy"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "걱정마.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이제 기억날거니까.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_v_joy"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이제 가볼까?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아직 보여줄 게 잔뜩 있거든.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "자 내손을 잡아",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_v_joy"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_10",
+      "lines": [
+        {
+          "speaker": "열쇠",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "결국 여기까지 왔구나.",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "열쇠",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "그런데.",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "쓸데없는 걸 하나 달고 왔네.",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...뭐?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "쓸데없는 거?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그게 설마 나를 말하는 거야?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "너희가 무슨 짓을 하고 다녔는지 알고는 있는 거야?",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "글쎄~",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "별로 관심 없는데?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "설마...",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "다른 애들은...",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "글쎄~",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "...그렇군.",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아가씨",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "뭘해야하는지 알거같지?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "열쇠",
+          "text": "...!",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "아니, 잠깐.",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "지금 뭘 하려는 건지 알 것 같아.",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "하지만 아직 아니야.",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이제 와서 뭘 그렇게 겁내?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "안 돼.",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "열쇠",
+          "text": "멈춰!",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "죄송해요.",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "근데",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "제가",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "왜 당신 말을 들어야하죠?",
+          "paginate": true
+        },
+        {
+          "speaker": "열쇠",
+          "text": "...!",
+          "paginate": true,
+          "portraitKey": "portrait_key_special"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_11",
+      "lines": [
+        {
+          "speaker": "인터넷",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "역시 훌륭해",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아가씨는 변함이 없어!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "이걸로...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "정말 즐거운 곳에 갈 수 있는 거 맞죠?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그럼 당연하지!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이제 거의 다 왔어.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "자, 여길 봐.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_12",
+      "lines": [
+        {
+          "speaker": "인터넷",
+          "text": "아가씨가 얻은 열쇠로",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "문을 열 수 있어",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "..문?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "저 안에는 말이야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "재밌는 것들로 가득 차 있어.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "정말인가요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그럼!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "이제 아무도 아가씨를 방해하지 못해.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "아무도 이래라저래라 할 수 없다고.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "더 자유로워지는 거야.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "그리고...",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "훨씬 더 즐거워질 거고.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "...",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "그 말이 거짓이면",
+          "paginate": true
+        },
+        {
+          "speaker": "V양",
+          "text": "당신도 그들과 똑같은 꼴이 될지도 모른다구요?",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하! 역시 아가씨야!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "하지만",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "응?",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "V양",
+          "text": "혼자는 싫어요.",
+          "paginate": true
+        },
+        {
+          "speaker": "인터넷",
+          "text": "...",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "하하하!",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "걱정 마, 아가씨",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "당연히 함께 가야지.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        },
+        {
+          "speaker": "인터넷",
+          "text": "자.",
+          "paginate": true,
+          "portraitKey": "portrait_npc_stage8"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_REPEAT_0",
+      "lines": [
+        {
+          "speaker": "인터넷",
+          "text": "확인해보고 왔어?",
+          "portraitKey": "portrait_npc_stage8"
+        }
+      ]
+    },
+    {
+      "id": "DEEP_REPEAT_1",
+      "lines": [
+        {
+          "speaker": "인터넷",
+          "text": "어서 보고 오라구~",
+          "portraitKey": "portrait_npc_stage8"
+        }
+      ]
+    }
+  ]
+}

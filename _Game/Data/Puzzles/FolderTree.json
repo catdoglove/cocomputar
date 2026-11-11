@@ -1,0 +1,79 @@
+{
+  "root": "root",
+  "nodes": [
+    {
+      "id": "root",
+      "name": "1989년",
+      "children": [
+        "spring",
+        "summer",
+        "winter"
+      ],
+      "exit": false
+    },
+    {
+      "id": "spring",
+      "name": "봄",
+      "children": [
+        "empty1"
+      ],
+      "exit": false
+    },
+    {
+      "id": "summer",
+      "name": "여름",
+      "children": [
+        "mem",
+        "empty2"
+      ],
+      "exit": false
+    },
+    {
+      "id": "winter",
+      "name": "겨울",
+      "children": [],
+      "exit": false
+    },
+    {
+      "id": "mem",
+      "name": "기억",
+      "children": [
+        "home",
+        "empty3"
+      ],
+      "exit": false
+    },
+    {
+      "id": "home",
+      "name": "집",
+      "children": [
+        "door"
+      ],
+      "exit": false
+    },
+    {
+      "id": "door",
+      "name": "돌아가는 길",
+      "children": [],
+      "exit": true
+    },
+    {
+      "id": "empty1",
+      "name": "빈 방",
+      "children": [],
+      "exit": false
+    },
+    {
+      "id": "empty2",
+      "name": "사진 없음",
+      "children": [],
+      "exit": false
+    },
+    {
+      "id": "empty3",
+      "name": "기록 없음",
+      "children": [],
+      "exit": false
+    }
+  ]
+}

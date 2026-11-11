@@ -1,0 +1,240 @@
+{
+  "layout": [
+    {
+      "id": "computer",
+      "name": "내 컴퓨터",
+      "sprite": "computer",
+      "x": 30,
+      "y": 68,
+      "kind": "folder"
+    },
+    {
+      "id": "pieces",
+      "name": "조각들",
+      "sprite": "folder",
+      "x": 30,
+      "y": 190,
+      "kind": "folder"
+    },
+    {
+      "id": "secret",
+      "name": "비밀",
+      "sprite": "folder",
+      "x": 30,
+      "y": 312,
+      "kind": "folder"
+    },
+    {
+      "id": "film",
+      "name": "필름_v.exe",
+      "sprite": "s3_program",
+      "x": 165,
+      "y": 68,
+      "kind": "executable"
+    },
+    {
+      "id": "bad1",
+      "name": "필ㄹ_e.exe",
+      "sprite": "s3_program",
+      "x": 290,
+      "y": 68,
+      "kind": "executable"
+    },
+    {
+      "id": "bad2",
+      "name": "ㅍ름_r.exe",
+      "sprite": "s3_program",
+      "x": 415,
+      "y": 68,
+      "kind": "executable"
+    },
+    {
+      "id": "geurim",
+      "name": "그림",
+      "sprite": "icon_geurim",
+      "x": 790,
+      "y": 225,
+      "kind": "npc"
+    }
+  ],
+  "trail": {
+    "points": [
+      {
+        "x": 100,
+        "y": 660
+      },
+      {
+        "x": 100,
+        "y": 510
+      },
+      {
+        "x": 180,
+        "y": 420
+      },
+      {
+        "x": 350,
+        "y": 420
+      },
+      {
+        "x": 350,
+        "y": 200
+      },
+      {
+        "x": 650,
+        "y": 200
+      },
+      {
+        "x": 900,
+        "y": 200
+      },
+      {
+        "x": 900,
+        "y": 500
+      },
+      {
+        "x": 900,
+        "y": 660
+      }
+    ],
+    "startHold": 3,
+    "holdSeconds": 1,
+    "decayPerSecond": 0.5,
+    "stillSpeed": 24,
+    "maxGap": 80,
+    "margin": 64,
+    "rotationOffset": -90,
+    "maxAttempts": 512,
+    "reservedWindow": {
+      "x": 450,
+      "y": 260,
+      "width": 330,
+      "height": 275
+    }
+  },
+  "cards": [
+    {
+      "id": "0",
+      "displayName": "1_b.png",
+      "realName": "1_b.png",
+      "symbol": "♥",
+      "filter": "Red",
+      "x": 410,
+      "y": 285
+    },
+    {
+      "id": "1",
+      "displayName": "2_c.png",
+      "realName": "2_c.png",
+      "symbol": "♠",
+      "filter": "Blue",
+      "x": 410,
+      "y": 285
+    },
+    {
+      "id": "2",
+      "displayName": "3_a.png",
+      "realName": "3_a.png",
+      "symbol": "♣",
+      "filter": "Green",
+      "x": 410,
+      "y": 285
+    },
+    {
+      "id": "3",
+      "displayName": "4_d.png",
+      "realName": "4_d.png",
+      "symbol": "♦",
+      "filter": "Yellow",
+      "x": 410,
+      "y": 285
+    }
+  ],
+  "pastImage": "s3_past",
+  "visionImage": "s3_vision",
+  "npc": "icon_geurim",
+  "youngNpc": "icon_geurim_young",
+  "music": "bgm_stage03",
+  "murmur": "bgm_murmur",
+  "denied": "sfx_denied",
+  "filterSound": "sfx_filter_switch",
+  "footstep": "sfx_footprint",
+  "installTick": "sfx_install_tick",
+  "ding": "sfx_ding",
+  "wrong": "sfx_pw_wrong",
+  "unlock": "sfx_unlock",
+  "warp": "sfx_time_warp",
+  "pop": "sfx_npc_pop",
+  "visionSeconds": 18,
+  "installSeconds": 4,
+  "filmName": "필름_v.exe",
+  "updatedFilmName": "필름_ver2.exe",
+  "deniedMessage": "이 프로그램에 접근할 수 없습니다.",
+  "dateParts": [
+    {
+      "text": "1990",
+      "filter": "Red",
+      "x": 90,
+      "y": 100
+    },
+    {
+      "text": "2",
+      "filter": "Blue",
+      "x": 280,
+      "y": 195
+    },
+    {
+      "text": "12",
+      "filter": "Green",
+      "x": 440,
+      "y": 290
+    }
+  ],
+  "secretYear": 1990,
+  "secretMonth": 2,
+  "secretDay": 12,
+  "filterColors": [
+    {
+      "filter": "Neutral",
+      "color": "#F0DB8C"
+    },
+    {
+      "filter": "Red",
+      "color": "#FF1A1F"
+    },
+    {
+      "filter": "Blue",
+      "color": "#0DA6FF"
+    },
+    {
+      "filter": "Yellow",
+      "color": "#FFD91A"
+    },
+    {
+      "filter": "Green",
+      "color": "#9EE61A"
+    }
+  ],
+  "pastIconExceptions": [
+    "computer"
+  ],
+  "cardDisplayOrder": [
+    2,
+    0,
+    1,
+    3
+  ],
+  "secretFiles": [
+    {
+      "id": "s3:door",
+      "name": "door.exe",
+      "spriteKey": "door",
+      "hidden": false
+    },
+    {
+      "id": "s3:past",
+      "name": "과거.png",
+      "spriteKey": "picture",
+      "hidden": true
+    }
+  ]
+}

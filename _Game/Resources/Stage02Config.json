@@ -1,0 +1,8 @@
+{
+  "sunset":{"id":"sunset","title":"석양.jpg","imageKey":"sunset","zoomInLevels":4,"zoomOutLevels":0,"zoomStep":0.5,"hotspots":[{"id":"white-key","spriteKey":"white_key","x":235,"y":235,"width":14,"height":22,"minZoom":0,"maxZoom":4,"color":"#D2B47A"}],"overlays":[{"id":"date","text":"1989년 6월 6일","x":450,"y":380,"width":135,"height":24,"minZoom":2,"maxZoom":4}]},
+  "key":{"id":"key.png","title":"열쇠.png","imageKey":"key_morph0","zoomInLevels":0,"zoomOutLevels":5,"zoomStep":0.22,"shrinkSprites":["key_morph0","key_morph1","key_morph2","key_morph3","key_morph4","key_morph5"],"hotspots":[{"id":"exit-folder","x":100,"y":70,"width":390,"height":270,"minZoom":-5,"maxZoom":-5}]},
+  "watering":{"id":"watering","title":"물뿌리개.bmp","imageKey":"watering","zoomInLevels":3,"zoomOutLevels":0},
+  "outdoorImage":"outdoor","music":"bgm_stage02","junkImages":["cat","dog","tree"],
+  "clouds":["cloud_drawn","cloud_drawn2","cloud_photo"],"photoCloud":2,"cloudCycleSeconds":9,"rainSeconds":1.8,
+  "secretYear":1989,"secretMonth":6,"secretDay":6
+}

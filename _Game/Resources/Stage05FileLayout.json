@@ -1,0 +1,408 @@
+{
+  "files": [
+    {
+      "id": "look",
+      "displayName": "돌아보기",
+      "parentFolder": "desktop",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 40,
+      "y": 200
+    },
+    {
+      "id": "soft",
+      "displayName": "서포트",
+      "parentFolder": "desktop",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 175,
+      "y": 200
+    },
+    {
+      "id": "past",
+      "displayName": "과거",
+      "parentFolder": "look",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 310,
+      "y": 200
+    },
+    {
+      "id": "future",
+      "displayName": "미래",
+      "parentFolder": "look",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 445,
+      "y": 200
+    },
+    {
+      "id": "present",
+      "displayName": "현재",
+      "parentFolder": "look",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 580,
+      "y": 200
+    },
+    {
+      "id": "memory1",
+      "displayName": "추억1",
+      "parentFolder": "past",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 715,
+      "y": 200
+    },
+    {
+      "id": "memory2",
+      "displayName": "추억2",
+      "parentFolder": "past",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 40,
+      "y": 200
+    },
+    {
+      "id": "now",
+      "displayName": "지금",
+      "parentFolder": "present",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 175,
+      "y": 200
+    },
+    {
+      "id": "nowof",
+      "displayName": "지금의",
+      "parentFolder": "present",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 310,
+      "y": 200
+    },
+    {
+      "id": "unhappy",
+      "displayName": "불행",
+      "parentFolder": "soft",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 445,
+      "y": 200
+    },
+    {
+      "id": "love",
+      "displayName": "사랑",
+      "parentFolder": "soft",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 580,
+      "y": 200
+    },
+    {
+      "id": "friend",
+      "displayName": "우정",
+      "parentFolder": "soft",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 715,
+      "y": 200
+    },
+    {
+      "id": "work",
+      "displayName": "일",
+      "parentFolder": "soft",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 40,
+      "y": 200
+    },
+    {
+      "id": "anxietyPast",
+      "displayName": "과거의 불안",
+      "parentFolder": "unhappy",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 175,
+      "y": 200
+    },
+    {
+      "id": "anxietyFuture",
+      "displayName": "미래의 불안",
+      "parentFolder": "unhappy",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 310,
+      "y": 200
+    },
+    {
+      "id": "anxietyNow",
+      "displayName": "현재의 불안",
+      "parentFolder": "unhappy",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 445,
+      "y": 200
+    },
+    {
+      "id": "male",
+      "displayName": "남",
+      "parentFolder": "love",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 580,
+      "y": 200
+    },
+    {
+      "id": "female",
+      "displayName": "여",
+      "parentFolder": "love",
+      "contentType": "folder",
+      "iconKey": "folder",
+      "x": 715,
+      "y": 200
+    },
+    {
+      "id": "radio",
+      "displayName": "radio.exe",
+      "parentFolder": "work",
+      "contentType": "program",
+      "iconKey": "program",
+      "x": 40,
+      "y": 200
+    },
+    {
+      "id": "photo",
+      "displayName": "photo_editor.exe",
+      "parentFolder": "female",
+      "contentType": "program",
+      "iconKey": "program",
+      "x": 175,
+      "y": 200
+    },
+    {
+      "id": "sound",
+      "displayName": "soundtest.exe",
+      "parentFolder": "male",
+      "contentType": "program",
+      "iconKey": "program",
+      "x": 310,
+      "y": 200
+    },
+    {
+      "id": "hint",
+      "displayName": "play_number.txt",
+      "parentFolder": "anxietyFuture",
+      "contentType": "text",
+      "iconKey": "document",
+      "x": 445,
+      "y": 200
+    },
+    {
+      "id": "radioNote",
+      "displayName": "주파수.txt",
+      "parentFolder": "nowof",
+      "contentType": "text",
+      "iconKey": "document",
+      "x": 580,
+      "y": 200,
+      "content": "흩어진 사진의 번호.\n라디오가 기억하는 숫자."
+    },
+    {
+      "id": "anxietyPast0",
+      "displayName": "0.txt",
+      "parentFolder": "anxietyPast",
+      "contentType": "text",
+      "iconKey": "document",
+      "x": 715,
+      "y": 200,
+      "content": "... / .. / ..."
+    },
+    {
+      "id": "anxietyPast1",
+      "displayName": "1.txt",
+      "parentFolder": "anxietyPast",
+      "contentType": "text",
+      "iconKey": "document",
+      "x": 40,
+      "y": 200,
+      "content": "... / .. / ..."
+    },
+    {
+      "id": "anxietyPast2",
+      "displayName": "2.txt",
+      "parentFolder": "anxietyPast",
+      "contentType": "text",
+      "iconKey": "document",
+      "x": 175,
+      "y": 200,
+      "content": "... / .. / ..."
+    },
+    {
+      "id": "anxietyNow0",
+      "displayName": "0.txt",
+      "parentFolder": "anxietyNow",
+      "contentType": "text",
+      "iconKey": "document",
+      "x": 310,
+      "y": 200,
+      "content": "... / .. / ..."
+    },
+    {
+      "id": "anxietyNow1",
+      "displayName": "1.txt",
+      "parentFolder": "anxietyNow",
+      "contentType": "text",
+      "iconKey": "document",
+      "x": 445,
+      "y": 200,
+      "content": "... / .. / ..."
+    },
+    {
+      "id": "anxietyNow2",
+      "displayName": "2.txt",
+      "parentFolder": "anxietyNow",
+      "contentType": "text",
+      "iconKey": "document",
+      "x": 580,
+      "y": 200,
+      "content": "... / .. / ..."
+    },
+    {
+      "id": "apple1",
+      "displayName": "apple1.png",
+      "parentFolder": "memory1",
+      "contentType": "image",
+      "iconKey": "picture",
+      "x": 715,
+      "y": 200,
+      "imageKey": "s5_photo"
+    },
+    {
+      "id": "apple2",
+      "displayName": "apple2.png",
+      "parentFolder": "memory1",
+      "contentType": "image",
+      "iconKey": "picture",
+      "x": 40,
+      "y": 200,
+      "imageKey": "s5_photo"
+    },
+    {
+      "id": "apple3",
+      "displayName": "apple3.png",
+      "parentFolder": "memory1",
+      "contentType": "image",
+      "iconKey": "picture",
+      "x": 175,
+      "y": 200,
+      "imageKey": "s5_photo"
+    },
+    {
+      "id": "orange1",
+      "displayName": "orange1.png",
+      "parentFolder": "memory2",
+      "contentType": "image",
+      "iconKey": "picture",
+      "x": 310,
+      "y": 200,
+      "imageKey": "s5_photo"
+    },
+    {
+      "id": "orange2",
+      "displayName": "orange2.png",
+      "parentFolder": "memory2",
+      "contentType": "image",
+      "iconKey": "picture",
+      "x": 445,
+      "y": 200,
+      "imageKey": "s5_photo"
+    },
+    {
+      "id": "orange3",
+      "displayName": "orange3.png",
+      "parentFolder": "memory2",
+      "contentType": "image",
+      "iconKey": "picture",
+      "x": 580,
+      "y": 200,
+      "imageKey": "s5_photo"
+    },
+    {
+      "id": "classic",
+      "displayName": "classic.mp3",
+      "parentFolder": "desktop",
+      "contentType": "music",
+      "iconKey": "music",
+      "x": 240,
+      "y": 440,
+      "available": false,
+      "renamable": false,
+      "allowedExt": [
+        "jpg",
+        "png",
+        "gif",
+        "bmp",
+        "txt",
+        "exe"
+      ]
+    },
+    {
+      "id": "iconA",
+      "displayName": "iconA.ico",
+      "parentFolder": "desktop",
+      "contentType": "half",
+      "iconKey": "s5_half_a",
+      "x": 390,
+      "y": 440,
+      "available": false,
+      "renamable": false,
+      "allowedExt": [
+        "jpg",
+        "png",
+        "gif",
+        "bmp",
+        "txt",
+        "exe"
+      ]
+    },
+    {
+      "id": "iconB",
+      "displayName": "iconB.ico",
+      "parentFolder": "desktop",
+      "contentType": "half",
+      "iconKey": "s5_half_b",
+      "x": 540,
+      "y": 440,
+      "available": false,
+      "renamable": false,
+      "allowedExt": [
+        "jpg",
+        "png",
+        "gif",
+        "bmp",
+        "txt",
+        "exe"
+      ]
+    },
+    {
+      "id": "door",
+      "displayName": "door.png",
+      "parentFolder": "desktop",
+      "contentType": "door",
+      "iconKey": "door",
+      "x": 465,
+      "y": 440,
+      "available": false,
+      "renamable": true,
+      "allowedExt": [
+        "jpg",
+        "png",
+        "gif",
+        "bmp",
+        "txt",
+        "exe"
+      ]
+    }
+  ]
+}

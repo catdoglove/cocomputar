@@ -1,0 +1,754 @@
+{
+  "products": [
+    {
+      "shop": "candy",
+      "id": "c0",
+      "name": "막대사탕",
+      "price": 500,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "candy",
+      "id": "c1",
+      "name": "젤리빈",
+      "price": 700,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "candy",
+      "id": "c2",
+      "name": "곰돌이 젤리",
+      "price": 800,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "candy",
+      "id": "c3",
+      "name": "캐러멜",
+      "price": 900,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "candy",
+      "id": "c4",
+      "name": "마시멜로",
+      "price": 1100,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "candy",
+      "id": "c5",
+      "name": "초코볼",
+      "price": 1200,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "candy",
+      "id": "c6",
+      "name": "초콜릿 바",
+      "price": 1300,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "candy",
+      "id": "c7",
+      "name": "쿠키 샌드",
+      "price": 1600,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "candy",
+      "id": "c8",
+      "name": "롤리팝 세트",
+      "price": 2000,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "candy",
+      "id": "c9",
+      "name": "딸기 초콜릿 상자",
+      "price": 2300,
+      "description": "기억 속의 달콤함을 한 봉지에 담았어요.",
+      "category": "",
+      "image": "s8_candy"
+    },
+    {
+      "shop": "mart",
+      "id": "m0",
+      "name": "사과",
+      "price": 1200,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m1",
+      "name": "브로콜리",
+      "price": 1300,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m2",
+      "name": "흰 우유",
+      "price": 1400,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m3",
+      "name": "식빵",
+      "price": 1500,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m4",
+      "name": "바나나",
+      "price": 1600,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m5",
+      "name": "토마토",
+      "price": 1700,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m6",
+      "name": "당근",
+      "price": 1800,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m7",
+      "name": "달걀",
+      "price": 1900,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m8",
+      "name": "배",
+      "price": 2000,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m9",
+      "name": "감자",
+      "price": 2100,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m10",
+      "name": "양파",
+      "price": 2200,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m11",
+      "name": "요구르트",
+      "price": 2300,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m12",
+      "name": "치즈",
+      "price": 2400,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m13",
+      "name": "냉동 완두콩",
+      "price": 2500,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m14",
+      "name": "만두",
+      "price": 2600,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m15",
+      "name": "버섯",
+      "price": 2700,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m16",
+      "name": "상추",
+      "price": 2800,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m17",
+      "name": "쌀과자",
+      "price": 2900,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m18",
+      "name": "오렌지",
+      "price": 3000,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m19",
+      "name": "포도",
+      "price": 3100,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m20",
+      "name": "복숭아",
+      "price": 3200,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "mart",
+      "id": "m21",
+      "name": "보리차",
+      "price": 3300,
+      "description": "신선하게 포장한 우리 동네 상품. 1봉 / 300g",
+      "category": "",
+      "image": "s8_mart"
+    },
+    {
+      "shop": "bread",
+      "id": "b0",
+      "name": "우유 식빵",
+      "price": 1300,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b1",
+      "name": "버터 크루아상",
+      "price": 1400,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b2",
+      "name": "딸기 도넛",
+      "price": 1500,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b3",
+      "name": "프렌치 바게트",
+      "price": 1600,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b4",
+      "name": "옛날 단팥빵",
+      "price": 1700,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b5",
+      "name": "소보로 빵",
+      "price": 1800,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b6",
+      "name": "크림빵",
+      "price": 1900,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b7",
+      "name": "시나몬 롤",
+      "price": 2000,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b8",
+      "name": "초코 머핀",
+      "price": 2100,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b9",
+      "name": "Rainbow Bun",
+      "price": 2200,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": false,
+      "action": "paint",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "bread",
+      "id": "b10",
+      "name": "눈알 빵",
+      "price": 2300,
+      "description": "따뜻하고 부드러운 빵. 한 입마다 작은 행복이 퍼집니다.",
+      "category": "",
+      "image": "s8_bread",
+      "yourOnly": true,
+      "action": "doll",
+      "yourDescription": "너무 맛있어서 황홀해 죽을 것 같습니다. 감동으로 숨이 멎습니다."
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구0",
+      "name": "인형 안구 1",
+      "price": 1726,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구1",
+      "name": "인형 안구 2",
+      "price": 1743,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구2",
+      "name": "인형 안구 3",
+      "price": 1760,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구3",
+      "name": "인형 안구 4",
+      "price": 1777,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구4",
+      "name": "인형 안구 5",
+      "price": 1794,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구5",
+      "name": "인형 안구 6",
+      "price": 1811,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구6",
+      "name": "인형 안구 7",
+      "price": 1828,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구7",
+      "name": "인형 안구 8",
+      "price": 1845,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구8",
+      "name": "인형 안구 9",
+      "price": 1862,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 안구9",
+      "name": "인형 안구 10",
+      "price": 1879,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 안구",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 몸0",
+      "name": "인형 몸 1",
+      "price": 2100,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 몸1",
+      "name": "인형 몸 2",
+      "price": 2300,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 몸2",
+      "name": "인형 몸 3",
+      "price": 2500,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 몸3",
+      "name": "인형 몸 4",
+      "price": 2700,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 몸4",
+      "name": "인형 몸 5",
+      "price": 2900,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 몸5",
+      "name": "인형 몸 6",
+      "price": 3100,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 몸6",
+      "name": "인형 몸 7",
+      "price": 3300,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 몸7",
+      "name": "인형 몸 8",
+      "price": 3500,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 몸8",
+      "name": "인형 몸 9",
+      "price": 3700,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "body",
+      "name": "흰 셔츠의 몸",
+      "price": 1898,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 몸",
+      "image": "portrait_folder",
+      "taxExempt": true,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리0",
+      "name": "녹색 리본",
+      "price": 0,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": true
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리1",
+      "name": "인형 악세서리 2",
+      "price": 1743,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리2",
+      "name": "인형 악세서리 3",
+      "price": 1760,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리3",
+      "name": "인형 악세서리 4",
+      "price": 1777,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리4",
+      "name": "인형 악세서리 5",
+      "price": 1794,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리5",
+      "name": "인형 악세서리 6",
+      "price": 1811,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리6",
+      "name": "인형 악세서리 7",
+      "price": 1828,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리7",
+      "name": "인형 악세서리 8",
+      "price": 1845,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리8",
+      "name": "인형 악세서리 9",
+      "price": 1862,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    },
+    {
+      "shop": "doll",
+      "id": "인형 악세서리9",
+      "name": "인형 악세서리 10",
+      "price": 1879,
+      "description": "오래된 진열장에서 당신을 기다립니다.",
+      "category": "인형 악세서리",
+      "image": "s8_doll",
+      "taxExempt": false,
+      "freeBlocked": false
+    }
+  ]
+}

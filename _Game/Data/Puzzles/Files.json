@@ -1,0 +1,103 @@
+{
+  "files": [
+    {
+      "id": "document_0",
+      "name": "일정.txt",
+      "category": "document",
+      "spriteKey": "document",
+      "content": "10:34\n정리할 것.\n기다릴 것.",
+      "imageKey": "cat",
+      "hidden": false
+    },
+    {
+      "id": "document_1",
+      "name": "기록.txt",
+      "category": "document",
+      "spriteKey": "document",
+      "content": "오늘도 같은 방이었다.",
+      "imageKey": "candy",
+      "hidden": false
+    },
+    {
+      "id": "document_2",
+      "name": "메모.txt",
+      "category": "document",
+      "spriteKey": "document",
+      "content": "기억은 어디에 보관되는 걸까?",
+      "imageKey": "dog",
+      "hidden": false
+    },
+    {
+      "id": "document_3",
+      "name": "잊힌 이름.txt",
+      "category": "document",
+      "spriteKey": "document",
+      "content": "내 이름은 정말 내 것일까?",
+      "imageKey": "family",
+      "hidden": true
+    },
+    {
+      "id": "picture_0",
+      "name": "고양이.png",
+      "category": "picture",
+      "spriteKey": "picture",
+      "content": "10:34\n정리할 것.\n기다릴 것.",
+      "imageKey": "cat",
+      "hidden": false
+    },
+    {
+      "id": "picture_1",
+      "name": "사탕.png",
+      "category": "picture",
+      "spriteKey": "picture",
+      "content": "오늘도 같은 방이었다.",
+      "imageKey": "candy",
+      "hidden": false
+    },
+    {
+      "id": "picture_2",
+      "name": "강아지.png",
+      "category": "picture",
+      "spriteKey": "picture",
+      "content": "기억은 어디에 보관되는 걸까?",
+      "imageKey": "dog",
+      "hidden": false
+    },
+    {
+      "id": "picture_3",
+      "name": "가족.png",
+      "category": "picture",
+      "spriteKey": "picture",
+      "content": "내 이름은 정말 내 것일까?",
+      "imageKey": "family",
+      "hidden": true
+    },
+    {
+      "id": "music_0",
+      "name": "오후.wav",
+      "category": "music",
+      "spriteKey": "music",
+      "content": "10:34\n정리할 것.\n기다릴 것.",
+      "imageKey": "cat",
+      "hidden": false
+    },
+    {
+      "id": "music_1",
+      "name": "자장가.wav",
+      "category": "music",
+      "spriteKey": "music",
+      "content": "오늘도 같은 방이었다.",
+      "imageKey": "candy",
+      "hidden": false
+    },
+    {
+      "id": "music_2",
+      "name": "잡음.wav",
+      "category": "music",
+      "spriteKey": "music",
+      "content": "기억은 어디에 보관되는 걸까?",
+      "imageKey": "dog",
+      "hidden": true
+    }
+  ]
+}
